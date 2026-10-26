@@ -1,0 +1,16 @@
+---
+version: 1
+slug: "public-index-html"
+primary_target: "public/index.html"
+related_targets: ["public/styles.css","public/app.js"]
+---
+
+Scope: IrikList application, Operate. Owner confirmed26Oct: first screen prioritizes criteria and reasons for matches. Task and version semantics are fixed by contract. No visual direction choice received after two actual60second waits; candidate4 is an author inference for this run, not approval or a stored preference. Code-led as an app screen.
+
+## Direction contract
+THESIS: A criteria-led working screen makes literal reasons visible before a synthetic selection, without a promotional hero or concealed hover details.
+OWN-WORLD: Museum collection-label precision lends forest navigation, pale mint ground, warm white work areas and narrow peach version marks; one local sans, readable16px rows, native controls.
+STORY: Read the published brief, compare three named conditions, choose up to five current versions, author explanations and explicitly freeze the shortlist. Historical versions remain clearly separate.
+FIRST VIEWPORT: Compact forest header and navigation; published brief across the work column; current profiles with three textual reasons below; the draft and submit in a right column. Mobile stacks brief, pool and draft in that order. Signature: the selected version's vertical mark changes to a text-labelled conflict on refresh, requiring explicit re-acceptance.
+FORM: Museum collection labels, candidate4; seed:4cb50ea287777a0a. Botanical folio competitive for fixed-version comparison; streamingwall/console/tape/map/exposure declined on audience/clarity. Kept disciplines: visible metadata, isolated archive action, selection capacity, fixed condition order and text conflict. Standard web layout/navigation/controls, no museum-object costume.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance

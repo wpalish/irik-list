@@ -1,0 +1,238 @@
+{
+  "title": "IrikList — рабочий экран",
+  "question": "Выберите направление или оставьте «Точные подписи». Можно изменить акцент или запросить другой вариант.",
+  "options": [
+    {
+      "id": "assigned",
+      "kind": "assigned",
+      "label": "Точные подписи",
+      "lineage": "Museum collection labels",
+      "thesis": "Критерии, текущие анкеты и зафиксированные версии читаются как одна проверка.",
+      "palette": [
+        "#163f35",
+        "#e4eee5",
+        "#fffaf1",
+        "#d68e66"
+      ],
+      "materials": [
+        "чёткая типографика",
+        "плотные подписи"
+      ],
+      "viewport": "Зелёная навигация, бриф над пулом; у каждой анкеты три причины и строка версии.",
+      "risk": "Избыточно мелкие подписи затруднят работу, поэтому основной текст остаётся16px.",
+      "raised": [
+        {
+          "from": "Каталог обложек",
+          "raise": "Все причины видны без наведения."
+        },
+        {
+          "from": "Тёмная рабочая среда",
+          "raise": "Архивирование отделено от сохранения."
+        },
+        {
+          "from": "Список сторон",
+          "raise": "Лимит выбора и пояснения всегда рядом."
+        },
+        {
+          "from": "Условные обозначения",
+          "raise": "Постоянный порядок трёх условий."
+        },
+        {
+          "from": "Слои проверки",
+          "raise": "Конфликт версии обозначен текстом и рамкой."
+        }
+      ],
+      "html": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/assigned.html",
+      "comp": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/assigned.png"
+    },
+    {
+      "id": "pick",
+      "kind": "pick",
+      "label": "Выставочный каталог",
+      "lineage": "Exhibition catalogue",
+      "kicker": "IMPECCABLE’S PICK",
+      "thesis": "Широкий индекс анкет с редакционными пояснениями.",
+      "palette": [
+        "#fff8e8",
+        "#282a2c",
+        "#ad4138"
+      ],
+      "materials": [
+        "контрастный набор",
+        "просторные колонки"
+      ],
+      "viewport": "Верхняя навигация, крупный бриф и общий список анкет.",
+      "risk": "Привычная редакционная композиция может быть менее отличимой.",
+      "html": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/pick.html",
+      "comp": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/pick.png"
+    },
+    {
+      "id": "folio",
+      "kind": "challenger",
+      "catalogId": "editorial-sequence-montage-botanical-folio-season",
+      "label": "Ботанические серии",
+      "verdict": "competitive",
+      "palette": [
+        "#f5f0df",
+        "#37482e",
+        "#a13532"
+      ],
+      "materials": [
+        "типографика",
+        "цветовые состояния"
+      ],
+      "thesis": "Фиксированный масштаб анкет помогает читать изменения версий.",
+      "viewport": "Навигация, бриф, анкеты с причинами и форма пояснений.",
+      "risk": "Сохраняет сравнение, но ассоциация с контентной командой слабее.",
+      "case": "Сохраняет сравнение, но ассоциация с контентной командой слабее.",
+      "hero": "https://impeccable.style/worlds/cards/editorial-sequence-montage-botanical-folio-season-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/editorial-sequence-montage-botanical-folio-season.webp",
+      "html": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/folio.html",
+      "comp": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/folio.png"
+    },
+    {
+      "id": "wall",
+      "kind": "challenger",
+      "catalogId": "pop-culture-shelf-streaming-title-card-wall",
+      "label": "Каталог обложек",
+      "verdict": "declined",
+      "palette": [
+        "#17191d",
+        "#f8f8f5",
+        "#ca5646"
+      ],
+      "materials": [
+        "типографика",
+        "цветовые состояния"
+      ],
+      "thesis": "Фокус выделяет выбранную анкету без фотографий.",
+      "viewport": "Навигация, бриф, анкеты с причинами и форма пояснений.",
+      "risk": "Скрытые до фокуса данные замедляют проверку причин.",
+      "case": "Скрытые до фокуса данные замедляют проверку причин.",
+      "hero": "https://impeccable.style/worlds/cards/pop-culture-shelf-streaming-title-card-wall-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/pop-culture-shelf-streaming-title-card-wall.webp",
+      "kept": "Дисциплина ясных состояний без заимствования декоративных мотивов."
+    },
+    {
+      "id": "console",
+      "kind": "challenger",
+      "catalogId": "digital-design-canon-dark-first-developer-console",
+      "label": "Тёмная рабочая среда",
+      "verdict": "declined",
+      "palette": [
+        "#24282b",
+        "#e5e7e4",
+        "#89bfa6"
+      ],
+      "materials": [
+        "типографика",
+        "цветовые состояния"
+      ],
+      "thesis": "Точные разделители и отдельное место для архивирования.",
+      "viewport": "Навигация, бриф, анкеты с причинами и форма пояснений.",
+      "risk": "Разработческий язык менее близок небольшой контентной команде.",
+      "case": "Разработческий язык менее близок небольшой контентной команде.",
+      "hero": "https://impeccable.style/worlds/cards/digital-design-canon-dark-first-developer-console-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/digital-design-canon-dark-first-developer-console.webp",
+      "kept": "Дисциплина ясных состояний без заимствования декоративных мотивов."
+    },
+    {
+      "id": "tape",
+      "kind": "challenger",
+      "catalogId": "vernacular-ephemera-cassette-j-card",
+      "label": "Список сторон",
+      "verdict": "declined",
+      "palette": [
+        "#f6f5ef",
+        "#173f89",
+        "#a83230"
+      ],
+      "materials": [
+        "типографика",
+        "цветовые состояния"
+      ],
+      "thesis": "Ограничение пяти позиций видно рядом со списком.",
+      "viewport": "Навигация, бриф, анкеты с причинами и форма пояснений.",
+      "risk": "Поворот сторон мешает одновременно читать критерии и пояснения.",
+      "case": "Поворот сторон мешает одновременно читать критерии и пояснения.",
+      "hero": "https://impeccable.style/worlds/cards/vernacular-ephemera-cassette-j-card-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/vernacular-ephemera-cassette-j-card.webp",
+      "kept": "Дисциплина ясных состояний без заимствования декоративных мотивов."
+    },
+    {
+      "id": "map",
+      "kind": "challenger",
+      "catalogId": "notation-diagram-systems-orienteering-map",
+      "label": "Условные обозначения",
+      "verdict": "declined",
+      "palette": [
+        "#f9f7ed",
+        "#76864f",
+        "#77467e"
+      ],
+      "materials": [
+        "типографика",
+        "цветовые состояния"
+      ],
+      "thesis": "Три условия имеют постоянные текстовые обозначения.",
+      "viewport": "Навигация, бриф, анкеты с причинами и форма пояснений.",
+      "risk": "Карта и маршрут не соответствуют буквальному отбору.",
+      "case": "Карта и маршрут не соответствуют буквальному отбору.",
+      "hero": "https://impeccable.style/worlds/cards/notation-diagram-systems-orienteering-map-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/notation-diagram-systems-orienteering-map.webp",
+      "kept": "Дисциплина ясных состояний без заимствования декоративных мотивов."
+    },
+    {
+      "id": "sheets",
+      "kind": "challenger",
+      "catalogId": "operate-b-exposure-record-zone-sheets",
+      "label": "Слои проверки",
+      "verdict": "declined",
+      "palette": [
+        "#efefea",
+        "#292a2b",
+        "#9c2e6f"
+      ],
+      "materials": [
+        "типографика",
+        "цветовые состояния"
+      ],
+      "thesis": "Конфликт версии отмечается формой и текстом.",
+      "viewport": "Навигация, бриф, анкеты с причинами и форма пояснений.",
+      "risk": "Перекрывающиеся листы ухудшают читаемость короткого списка.",
+      "case": "Перекрывающиеся листы ухудшают читаемость короткого списка.",
+      "hero": "https://impeccable.style/worlds/cards/operate-b-exposure-record-zone-sheets-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/operate-b-exposure-record-zone-sheets.webp",
+      "kept": "Дисциплина ясных состояний без заимствования декоративных мотивов."
+    }
+  ],
+  "canon": true,
+  "canonCard": {
+    "kind": "canon",
+    "label": "Привычная рабочая таблица",
+    "thesis": "Обычный список с фильтрами, выбором и подробностями.",
+    "palette": [
+      "#ffffff",
+      "#202b36",
+      "#225ac7"
+    ],
+    "materials": [
+      "светлая сетка"
+    ],
+    "viewport": "Фильтры над таблицей, выбор и пояснение справа.",
+    "risk": "По структуре похож на другие инструменты отбора.",
+    "html": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/canon.html",
+    "comp": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/mocks/decision/canon.png"
+  },
+  "reroll": {
+    "registers": [
+      "safer",
+      "bolder"
+    ]
+  },
+  "steer": true,
+  "buildPath": {
+    "value": "code",
+    "toggle": true
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "grounded": [
+    [
+      "Exhibition catalogue",
+      "Cream, ink and coral; editorial index density"
+    ],
+    [
+      "Festival programme",
+      "Indigo, white and lime; concise bilingual tracks"
+    ],
+    [
+      "Independent magazine credits",
+      "Burgundy and soft white; strong role hierarchy"
+    ],
+    [
+      "Museum collection labels",
+      "Deep forest, pale mint and warm white; exact version captions"
+    ],
+    [
+      "Book colophon",
+      "Navy, ochre and white; clear authorship and editions"
+    ],
+    [
+      "Textile colour library",
+      "Teal and neutral swatches; categorical comparison"
+    ],
+    [
+      "Community sports programme",
+      "Blue, orange and white; compact lineup comparison"
+    ]
+  ],
+  "seed": "seed:4cb50ea287777a0a",
+  "assigned_index": 4,
+  "status": "awaiting_optional_owner_direction",
+  "note": "Grounded list written after seed call; no prior ordering or owner choice claimed. Assigned index honoured; no re-roll.",
+  "challengers": [
+    [
+      "folio",
+      "editorial-sequence-montage-botanical-folio-season",
+      "Ботанические серии",
+      "competitive",
+      [
+        "#f5f0df",
+        "#37482e",
+        "#a13532"
+      ],
+      "Фиксированный масштаб анкет помогает читать изменения версий.",
+      "Сохраняет сравнение, но ассоциация с контентной командой слабее."
+    ],
+    [
+      "wall",
+      "pop-culture-shelf-streaming-title-card-wall",
+      "Каталог обложек",
+      "declined",
+      [
+        "#17191d",
+        "#f8f8f5",
+        "#ca5646"
+      ],
+      "Фокус выделяет выбранную анкету без фотографий.",
+      "Скрытые до фокуса данные замедляют проверку причин."
+    ],
+    [
+      "console",
+      "digital-design-canon-dark-first-developer-console",
+      "Тёмная рабочая среда",
+      "declined",
+      [
+        "#24282b",
+        "#e5e7e4",
+        "#89bfa6"
+      ],
+      "Точные разделители и отдельное место для архивирования.",
+      "Разработческий язык менее близок небольшой контентной команде."
+    ],
+    [
+      "tape",
+      "vernacular-ephemera-cassette-j-card",
+      "Список сторон",
+      "declined",
+      [
+        "#f6f5ef",
+        "#173f89",
+        "#a83230"
+      ],
+      "Ограничение пяти позиций видно рядом со списком.",
+      "Поворот сторон мешает одновременно читать критерии и пояснения."
+    ],
+    [
+      "map",
+      "notation-diagram-systems-orienteering-map",
+      "Условные обозначения",
+      "declined",
+      [
+        "#f9f7ed",
+        "#76864f",
+        "#77467e"
+      ],
+      "Три условия имеют постоянные текстовые обозначения.",
+      "Карта и маршрут не соответствуют буквальному отбору."
+    ],
+    [
+      "sheets",
+      "operate-b-exposure-record-zone-sheets",
+      "Слои проверки",
+      "declined",
+      [
+        "#efefea",
+        "#292a2b",
+        "#9c2e6f"
+      ],
+      "Конфликт версии отмечается формой и текстом.",
+      "Перекрывающиеся листы ухудшают читаемость короткого списка."
+    ]
+  ],
+  "uiux": "Generic result returned Hero+Features+CTA, off-task for Operate; rejected layout/typography suggestion, kept keyboard/contrast/formerror guidance."
+}
