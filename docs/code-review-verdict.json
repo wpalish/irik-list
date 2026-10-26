@@ -1,0 +1,56 @@
+{
+  "kind": "fresh_whole_source_review_then_author_test_closure",
+  "reviewed_commit": "327efe3",
+  "reviewer": "delegated fresh source reviewer",
+  "original_approval": "No; six important groups and ASCII minor",
+  "fix_commit": "df260920dc28422c69271a75a3a51935aab7cb47",
+  "findings": [
+    {
+      "id": "R1",
+      "issue": "late identity/state reads replace newer data",
+      "closure": "epoch/read barriers and monotonic revision"
+    },
+    {
+      "id": "R2",
+      "issue": "prewrite/automatic read clears unknown",
+      "closure": "explicit relevant read begun after unknown required"
+    },
+    {
+      "id": "R3",
+      "issue": "awaited restore file crosses identity",
+      "closure": "actor epoch checked before read and POST; selected file cleared"
+    },
+    {
+      "id": "R4",
+      "issue": "browser JSON.parse drops raw decoded duplicate keys",
+      "closure": "strict original UTF8/file JSON shared parser"
+    },
+    {
+      "id": "R5",
+      "issue": "old source-save completion erases newer editor work",
+      "closure": "submitted ID and input generation binding"
+    },
+    {
+      "id": "R6",
+      "issue": "lexical extended-year date sorting accepts future events",
+      "closure": "safe nonnegative numeric epoch comparisons"
+    },
+    {
+      "id": "R7",
+      "issue": "Unicode uppercase silently changes permanent ASCII identity",
+      "closure": "reject nonASCII before ASCII case conversion; author regraded important with contract basis"
+    }
+  ],
+  "regression": {
+    "new_unique_cases": 9,
+    "red": {
+      "pass": 46,
+      "fail": 9
+    },
+    "green": {
+      "pass": 55,
+      "fail": 0
+    }
+  },
+  "limits": "Author closure by behavioural unit/controller/app tests; not a second whole approval, external security audit or realbrowser execution of every async case. Actual authenticated QA unknown POST/user read is separate browser evidence."
+}

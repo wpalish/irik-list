@@ -1,0 +1,285 @@
+{
+  "generated_at": "2026-10-26T18:04:58.107810Z",
+  "product": "irik-list",
+  "mode": "post-build source-derived design documentation",
+  "status": "documented",
+  "files": [
+    "DESIGN.md",
+    ".impeccable/design.json"
+  ],
+  "authority": {
+    "owner_confirmed": "First-screen criteria and reasons for matches.",
+    "visual_world": "Author-inferred museum collection-label precision after two unanswered waits; not owner approval.",
+    "review_scope": "docs/finish-review.json ship resolves F1–F6 and R1 together with preserved original20-view full review; not a new whole-surface audit.",
+    "reviewed_commit": "d4a421feb68973de0498c7f6eff30b15e3da19eb"
+  },
+  "inputs": {
+    "source_hashes_before": {
+      "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+      "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+      "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+      "public/fonts/noto-sans.ttf": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    },
+    "source_hashes_after": {
+      "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+      "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+      "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+      "public/fonts/noto-sans.ttf": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    },
+    "direction": ".impeccable/surfaces/public-index-html.md",
+    "product": "PRODUCT.md",
+    "format": "/Users/wpalish/.codex/skills/impeccable/reference/document.md",
+    "role": "/Users/wpalish/.codex/skills/impeccable/agents/impeccable_documenter.toml"
+  },
+  "extraction": {
+    "normative_css_color_tokens": 12,
+    "typography_roles": 8,
+    "rounded_roles": 2,
+    "repeated_spacing_roles": 6,
+    "component_frontmatter_variants": 14,
+    "scriptless_static_examples": 10,
+    "source_correspondence": [
+      {
+        "name": "Primary action",
+        "source_needles": [
+          "button.primary{background:var(--forest);color:var(--white)}",
+          "min-height:44px"
+        ]
+      },
+      {
+        "name": "Secondary action",
+        "source_needles": [
+          "button:hover{background:var(--selected)}",
+          "button:active{background:var(--line)}"
+        ]
+      },
+      {
+        "name": "Archive action",
+        "source_needles": [
+          ".archive{display:block;color:var(--danger);border-color:var(--danger);margin:30px 0 0}"
+        ]
+      },
+      {
+        "name": "Labelled explanation field",
+        "source_needles": [
+          "textarea{resize:vertical;min-height:100px}",
+          "area.setAttribute('aria-describedby','reason-hint')"
+        ]
+      },
+      {
+        "name": "Whole-word section navigation",
+        "source_needles": [
+          "nav button[aria-current=page]{background:var(--forest);color:var(--white)}",
+          "white-space:nowrap"
+        ]
+      },
+      {
+        "name": "Selected version caption",
+        "source_needles": [
+          ".selected-version,.profile-row.selected .version{background:var(--accent);color:var(--ink);font-weight:700}"
+        ]
+      },
+      {
+        "name": "Published brief",
+        "source_needles": [
+          ".brief{background:var(--paper);padding:22px 26px",
+          "criteria.append(el('p',tr('city')"
+        ]
+      },
+      {
+        "name": "Profile with literal reason rows",
+        "source_needles": [
+          ".reasons li{display:grid;grid-template-columns:80px minmax(0,1fr)",
+          "body.append(el('span',tr(r.status),'reason-status'))"
+        ]
+      },
+      {
+        "name": "Changed selected version",
+        "source_needles": [
+          ".draft-entry.changed{outline-color:var(--warn);padding:16px;background:var(--white)}",
+          ".changed .selected-version{border-color:var(--warn);background:var(--paper)}"
+        ]
+      },
+      {
+        "name": "Associated topic error",
+        "source_needles": [
+          ".field-error:empty{display:none}",
+          "f.setAttribute('aria-describedby','b-topic-hint b-topic-error')"
+        ]
+      }
+    ],
+    "tonal_ramps": "12 synthesized eight-step OKLCH panel previews; not used or normative CSS tokens.",
+    "no_shadow_vocabulary": true,
+    "effective_narrow_breakpoint": "760px"
+  },
+  "validation": {
+    "yaml": "System Ruby/Psych safe_load parsed frontmatter equal to the authored object.",
+    "json": "Python standard json parsed by generation and explicit schema/reference assertions.",
+    "static_correspondence_assertions_passed": 151,
+    "assertions": [
+      "YAML parser equality",
+      "JSON schema version",
+      "canonical section order",
+      "allowed frontmatter groups",
+      "all source custom colors represented",
+      "color forest",
+      "ramp forest",
+      "color mint",
+      "ramp mint",
+      "color paper",
+      "ramp paper",
+      "color white",
+      "ramp white",
+      "color ink",
+      "ramp ink",
+      "color muted",
+      "ramp muted",
+      "color line",
+      "ramp line",
+      "color accent",
+      "ramp accent",
+      "color danger",
+      "ramp danger",
+      "color warn",
+      "ramp warn",
+      "color selected",
+      "ramp selected",
+      "color focus",
+      "ramp focus",
+      "allowed component properties button-primary",
+      "resolved reference button-primary/forest",
+      "resolved reference button-primary/white",
+      "resolved reference button-primary/button",
+      "allowed component properties button-primary-hover",
+      "resolved reference button-primary-hover/ink",
+      "resolved reference button-primary-hover/white",
+      "allowed component properties button-secondary",
+      "resolved reference button-secondary/white",
+      "resolved reference button-secondary/forest",
+      "resolved reference button-secondary/button",
+      "allowed component properties button-secondary-hover",
+      "resolved reference button-secondary-hover/selected",
+      "allowed component properties button-disabled",
+      "resolved reference button-disabled/mint",
+      "resolved reference button-disabled/muted",
+      "allowed component properties button-archive",
+      "resolved reference button-archive/white",
+      "resolved reference button-archive/danger",
+      "resolved reference button-archive/button",
+      "allowed component properties input",
+      "resolved reference input/white",
+      "resolved reference input/ink",
+      "resolved reference input/field",
+      "allowed component properties navigation-current",
+      "resolved reference navigation-current/forest",
+      "resolved reference navigation-current/white",
+      "resolved reference navigation-current/button",
+      "allowed component properties version-selected",
+      "resolved reference version-selected/accent",
+      "resolved reference version-selected/ink",
+      "allowed component properties brief",
+      "resolved reference brief/paper",
+      "resolved reference brief/ink",
+      "allowed component properties profile",
+      "resolved reference profile/white",
+      "resolved reference profile/ink",
+      "allowed component properties profile-selected",
+      "resolved reference profile-selected/selected",
+      "resolved reference profile-selected/ink",
+      "allowed component properties draft",
+      "resolved reference draft/paper",
+      "resolved reference draft/ink",
+      "allowed component properties draft-conflict",
+      "resolved reference draft-conflict/white",
+      "resolved reference draft-conflict/ink",
+      "snippet reference Primary action",
+      "scriptless HTML Primary action",
+      "class scoping Primary action",
+      "no external assets Primary action",
+      "source correspondence Primary action/button.primary{background:var(--forest);color:var(--white)}",
+      "source correspondence Primary action/min-height:44px",
+      "snippet reference Secondary action",
+      "scriptless HTML Secondary action",
+      "class scoping Secondary action",
+      "no external assets Secondary action",
+      "source correspondence Secondary action/button:hover{background:var(--selected)}",
+      "source correspondence Secondary action/button:active{background:var(--line)}",
+      "snippet reference Archive action",
+      "scriptless HTML Archive action",
+      "class scoping Archive action",
+      "no external assets Archive action",
+      "source correspondence Archive action/.archive{display:block;color:var(--danger);border-color:var(--danger);margin:30px 0 0}",
+      "snippet reference Labelled explanation field",
+      "scriptless HTML Labelled explanation field",
+      "class scoping Labelled explanation field",
+      "no external assets Labelled explanation field",
+      "source correspondence Labelled explanation field/textarea{resize:vertical;min-height:100px}",
+      "source correspondence Labelled explanation field/area.setAttribute('aria-describedby','reason-hint')",
+      "snippet reference Whole-word section navigation",
+      "scriptless HTML Whole-word section navigation",
+      "class scoping Whole-word section navigation",
+      "no external assets Whole-word section navigation",
+      "source correspondence Whole-word section navigation/nav button[aria-current=page]{background:var(--forest);color:var(--white)}",
+      "source correspondence Whole-word section navigation/white-space:nowrap",
+      "snippet reference Selected version caption",
+      "scriptless HTML Selected version caption",
+      "class scoping Selected version caption",
+      "no external assets Selected version caption",
+      "source correspondence Selected version caption/.selected-version,.profile-row.selected .version{background:var(--accent);color:var(--ink);font-weight:700}",
+      "snippet reference Published brief",
+      "scriptless HTML Published brief",
+      "class scoping Published brief",
+      "no external assets Published brief",
+      "source correspondence Published brief/.brief{background:var(--paper);padding:22px 26px",
+      "source correspondence Published brief/criteria.append(el('p',tr('city')",
+      "snippet reference Profile with literal reason rows",
+      "scriptless HTML Profile with literal reason rows",
+      "class scoping Profile with literal reason rows",
+      "no external assets Profile with literal reason rows",
+      "source correspondence Profile with literal reason rows/.reasons li{display:grid;grid-template-columns:80px minmax(0,1fr)",
+      "source correspondence Profile with literal reason rows/body.append(el('span',tr(r.status),'reason-status'))",
+      "snippet reference Changed selected version",
+      "scriptless HTML Changed selected version",
+      "class scoping Changed selected version",
+      "no external assets Changed selected version",
+      "source correspondence Changed selected version/.draft-entry.changed{outline-color:var(--warn);padding:16px;background:var(--white)}",
+      "source correspondence Changed selected version/.changed .selected-version{border-color:var(--warn);background:var(--paper)}",
+      "snippet reference Associated topic error",
+      "scriptless HTML Associated topic error",
+      "class scoping Associated topic error",
+      "no external assets Associated topic error",
+      "source correspondence Associated topic error/.field-error:empty{display:none}",
+      "source correspondence Associated topic error/f.setAttribute('aria-describedby','b-topic-hint b-topic-error')",
+      "no box shadows",
+      "whole word navigation final rule",
+      "final mobile headline",
+      "reduced version motion",
+      "reduced draft motion",
+      "local font URL",
+      "narrative literal **Do** preserve the text label and value for each city, language and topic reason.",
+      "narrative literal **Do** retain native-sized controls, associated field errors and the visible rust focus outline.",
+      "narrative literal **Do** let whole navigation controls move to another row on narrow screens.",
+      "narrative literal **Do** distinguish selected, changed, frozen and archived states with text as well as their existing treatments.",
+      "narrative literal **Don't** split localized navigation labels into arbitrary letter fragments.",
+      "narrative literal **Don't** replace a changed-version explanation with a colored stripe alone.",
+      "narrative literal **Don't** add elevation shadows to these flat record surfaces as an assumed house style.",
+      "narrative literal **Don't** present the inferred visual world as owner-approved.",
+      "named rule literal The Caption Rule",
+      "named rule literal The One Local Voice Rule",
+      "named rule literal The Flat Record Rule",
+      "source files unchanged"
+    ],
+    "product_tests_added": 0,
+    "product_tests_executed": 0,
+    "browser_actions": 0,
+    "network_actions": 0,
+    "source_files_changed": false,
+    "limitations": "Static documentation/source checks only. The examples are not live product states or tests; no independent rendering, AT, touch, physical-device, motion-performance or full-security audit."
+  },
+  "not_canonized": [
+    "The provisional direction contract names a vertical selected-version mark; the build uses a small caption without a card stripe, and the document records the build.",
+    "Earlier narrow header, headline and reason-column declarations are superseded in the final cascade; they are not alternative effective system tokens.",
+    "Visual world language remains descriptive and author-inferred, not a user preference or owner approval."
+  ],
+  "repairs_made": []
+}

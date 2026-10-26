@@ -1,0 +1,127 @@
+{
+  "verdict": {
+    "scope": "Ship covers the scored fixes, not a new whole-surface audit. This scoped verdict is read together with the preserved original20-view full review.",
+    "evidence": {
+      "scope": "Verdict pass for original F1–F6 with at most three regressions; no new whole audit.",
+      "prior_full_review": "docs/finish-review-full-before-fixes.json; original20 supplied views were opened in the preceding full review.",
+      "reviewed_commit": "d4a421feb68973de0498c7f6eff30b15e3da19eb",
+      "captures_opened_in_this_verdict": 25,
+      "capture_hashes_match": 25,
+      "pre_post_maps_stable": 25,
+      "staging": "17 captures retain the81addf2 six-fix CSS; six retain the a528d74 intermediate nav-wrap CSS (their original source_stage text final_current is historical, not a claim about d4a421f); two nav-top-mobile RU/KK captures match final-current d4a421f source. All25 raw hashes and11-file maps were independently checked against their own stages. The last change is exactly the narrow nav button rule: flex1 1 0/overflow-wrap:anywhere becomes flex1 1 auto/white-space:nowrap. No historical map was relabelled final-current.",
+      "evidence_validity": "All25 included JPEG captures exist, have meaningful named viewport content, stable source maps and pre/post overflow0. The two last actual400x760 captures are at scrollY0 and show whole-word nav, complete criteria and the first city reason. Two original overflow captures, the misnamed400px desktop capture and nav-final-* scrolled variants are excluded; none serves as approval evidence.",
+      "execution_scope": {
+        "main": "16/audit16 unchanged; accepted commands1–16 never replayed",
+        "QA": "new version4→5 command at3 and one corrected valid brief at4; existing QA was not reseeded; no QA shortlist POST",
+        "F3_F4": "actual0 and4topics errors RU/KK; focus first topic/aria-invalid+describedby; blank KKtitle,Shymkent,en,4topics,all retained on language switch",
+        "F5": "one distinct SYN_qa_pending_f5 successful account POST held by private wrapper, pending capture; released invalid JSON; unknown capture; explicit GETusers found exactly one; no application resend. Older SYN_qa_account was not replayed. Current5users; domain4/audit4",
+        "F1": "actual400x760 top RU/KK: header90,brief complete,first reason start635.3",
+        "scope": "main authenticated local app and isolated authenticated private QA DB; no external account/customer action"
+      },
+      "tests": "Packet reports58/58 tests, including three new meaningful UI regressions after RED55/3. The reviewer did not run tests; repeated parent runs are not additional tests.",
+      "limits": [
+        "no touch/AT/1440/physicaldevice/load/lowmemory/fullsecurity/publicSaaSaudit",
+        "not a fresh whole audit: score six fixes with preserved original20view full review",
+        "direction inferred; owner only confirmed criteria/reasons priority",
+        "detector/context each once; not repeated"
+      ],
+      "reviewer_actions": "Opened all25 supplied verdict images, verified all raw/source maps at their own stages, scored F1–F6, then scored only R1 against the last two images and exact one-rule CSS diff. No new whole audit, browser/server/render, detector/context rerun, product test, source edit or DB mutation.",
+      "authority": "Owner confirmed first-screen criteria/reasons; the museum-label visual world remains author-inferred, not owner-approved."
+    },
+    "scored_fixes": [
+      {
+        "id": "F1",
+        "status": "resolved",
+        "evidence": "The 400x760 RU and KK top captures now show the complete published brief and the beginning of literal reason rows. The header is around90px instead of194px. Final-current admin top captures preserve this content priority. A navigation readability regression from the same compacting batch was separately recorded as R1 and is resolved by the final two whole-word navigation captures.",
+        "captures": [
+          "verdict-mobile-ru-criteria",
+          "verdict-mobile-kk-criteria",
+          "final-mobile-admin-criteria-ru",
+          "final-mobile-admin-criteria-kk"
+        ]
+      },
+      {
+        "id": "F2",
+        "status": "resolved",
+        "evidence": "Selected v4 and explicitly accepted v5 have a visible peach caption marker. On refresh, the same caption becomes a bordered v4-to-v5 conflict; retained authored explanation, explicit accept button and disabled save are visible. After acceptance the peach v5 marker returns and save is enabled. No wide colored card side stripe was added.",
+        "captures": [
+          "verdict-mobile-version4",
+          "verdict-mobile-changed5",
+          "verdict-desktop-changed5",
+          "verdict-desktop-accepted5"
+        ]
+      },
+      {
+        "id": "F3",
+        "status": "resolved",
+        "evidence": "RU zero/four-topic and KK four-topic captures visibly show the1–3 requirement and a specific adjacent correction stating that other fields remain. Current checkFields/content/localFailure code associates group error/invalid state and focuses the first topic; this reviewer did not independently execute focus or AT.",
+        "captures": [
+          "final-mobile-topics-zero-ru",
+          "final-mobile-topics-four-ru",
+          "final-mobile-topics-four-kk"
+        ]
+      },
+      {
+        "id": "F4",
+        "status": "resolved",
+        "evidence": "Actual partial-brief captures retain a blank KK title, Shymkent, English and chosen topics after the language switch; paired four-topic capture retains all-mode. Current language handler snapshots rawContent and fills translated controls without requiring normalization. The preservation is visible rather than inferred only from a successful complete form.",
+        "captures": [
+          "verdict-mobile-partial-retained-kk",
+          "verdict-desktop-brief-preserved",
+          "final-mobile-partial-retained-kk",
+          "final-mobile-topics-four-kk"
+        ]
+      },
+      {
+        "id": "F5",
+        "status": "resolved",
+        "evidence": "The pending capture uses neutral text describing the in-flight operation; the unknown account capture uses danger text and explicit relevant-read recovery; the recovered capture clears that warning; actual successful brief save is forest-colored. Current source supplies busy attributes and disables writes. The named QA account appears once after the reported explicit users GET; this review does not claim a new POST/GET execution.",
+        "captures": [
+          "verdict-mobile-pending-account",
+          "verdict-mobile-unknown-account",
+          "verdict-mobile-account-read-recovered",
+          "verdict-mobile-account-listed-once",
+          "verdict-mobile-save-success"
+        ]
+      },
+      {
+        "id": "F6",
+        "status": "resolved",
+        "evidence": "Visible RU/KK bounds and recovery copy now separate words, punctuation, units and ranges, including1–3 topic correction,1–500 explanation limit and14–200 password limit. Static fallback/dictionary/user-error changes were checked only to score this fix. Codes and authored explanations remain data. The new navigation letter-breaking is R1 rather than an uncorrected spacing finding.",
+        "captures": [
+          "verdict-mobile-version4",
+          "verdict-mobile-account-listed-once",
+          "verdict-mobile-unknown-account",
+          "final-mobile-topics-zero-ru",
+          "final-mobile-topics-four-kk"
+        ]
+      }
+    ],
+    "regressions": [
+      {
+        "id": "R1",
+        "severity": "medium",
+        "status": "resolved",
+        "introduced_by": "F1 compact narrow four-button navigation, followed by the one-rule overflow-wrap:anywhere correction",
+        "captures": [
+          "final-mobile-admin-criteria-ru",
+          "final-mobile-admin-criteria-kk"
+        ],
+        "evidence": "At400px the RU controls visibly split single words into Исходник / и and Админист / рировани / е; KK splits Әкімшілі / к. Overflow is0, but letter fragments make the primary navigation look broken and slow scanning. This is a regression from the fix batch, not a new whole-surface hunt.",
+        "directive": "Resolved; retain whole-word navigation and first-viewport criteria/reason visibility.",
+        "resolved_at": "d4a421feb68973de0498c7f6eff30b15e3da19eb",
+        "resolution": "The final nav-top-mobile-ru and nav-top-mobile-kk captures show whole localized labels on naturally wrapped controls: three section buttons on the first row and administration on the second. Targets remain native-sized; the complete brief criteria and start of the first reason remain within400x760 at scrollY0/overflow0. This resolves the previously observed arbitrary-letter wrapping without reopening other fixes.",
+        "resolution_captures": [
+          "nav-top-mobile-ru",
+          "nav-top-mobile-kk"
+        ]
+      }
+    ]
+  },
+  "remaining": {
+    "status": "clear",
+    "items": [],
+    "scope": "F1–F6 resolved; R1 resolved. No further regression from the scored nav correction is visible in the two required top captures. No new audit or owner visual-world approval is implied."
+  },
+  "disposition": "ship"
+}

@@ -1,0 +1,1101 @@
+{
+  "at": "2026-10-26T17:32:37.743389+00:00",
+  "product": "irik-list",
+  "commit": "df260920dc28422c69271a75a3a51935aab7cb47",
+  "artifact": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/public/index.html",
+  "sourceReview": "Whole-source original327efe3 found6importantgroups+ASCIIminor;oneauthorRED9→GREEN55batchdf2609. No newwholeapprovalclaimed.",
+  "ownerConfirmed": "Firstscreencriteriaandliteralreasons;noapprovalofspecificvisualworld.",
+  "directionContract": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/.impeccable/surfaces/public-index-html.md",
+  "craftFloor": "/Users/wpalish/.codex/skills/impeccable/reference/craft-floor.md",
+  "detector": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/products/irik-list/docs/detector-once.json",
+  "detectorInvocations": 1,
+  "captures": [
+    {
+      "name": "desktop-immutable9-current",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/desktop-immutable9-current.jpg",
+      "public": "docs/captures/desktop-immutable9-current.jpg",
+      "sha256": "6ba78f5aff4ef79e1a806ed1e5ec47c99599ecfe6e2fb7759896829673506495",
+      "bytes": 73101,
+      "pre": {
+        "dpr": 2,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 2,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "main_actual_synthetic_workflow"
+    },
+    {
+      "name": "mobile-kk-history12-content",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/mobile-kk-history12-content.jpg",
+      "public": "docs/captures/mobile-kk-history12-content.jpg",
+      "sha256": "0256fd3b8e1f0ec328094cc041770aafa04e17f8cf5b1f2303300086d0b04b4a",
+      "bytes": 39090,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 775.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 775.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "main_actual_synthetic_workflow"
+    },
+    {
+      "name": "mobile-kk-closed15",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/mobile-kk-closed15.jpg",
+      "public": "docs/captures/mobile-kk-closed15.jpg",
+      "sha256": "ddf752de841008da9649ff5c57bc8d37454c405e234c625764269822e8717d18",
+      "bytes": 38448,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 15.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 15.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "main_actual_synthetic_workflow"
+    },
+    {
+      "name": "review-desktop-active",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-desktop-active.jpg",
+      "public": "docs/captures/review-desktop-active.jpg",
+      "sha256": "cf2f4a144c583bd45cbdfc019f4929f2873dab08fa786c92407b5ccca9d8d42d",
+      "bytes": 101367,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-desktop-draft-top",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-desktop-draft-top.jpg",
+      "public": "docs/captures/review-desktop-draft-top.jpg",
+      "sha256": "053c7195977fac349b70fd0910a81a3bab7815891fc60d05cede90f02c72702f",
+      "bytes": 104129,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-desktop-changed",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-desktop-changed.jpg",
+      "public": "docs/captures/review-desktop-changed.jpg",
+      "sha256": "1e1367f330407f89ce2cf2a21069940c92d8ea85a974c751884f80c0bcd26819",
+      "bytes": 120420,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 554,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 554,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-criteria",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-criteria.jpg",
+      "public": "docs/captures/review-mobile-criteria.jpg",
+      "sha256": "40045bec75934c53f616643d430d7b121bdee18b53d21a43513dd9bb863bf69f",
+      "bytes": 37165,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-changed",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-changed.jpg",
+      "public": "docs/captures/review-mobile-changed.jpg",
+      "sha256": "ead4ff7737ed24b4daece54faa10d6466ed70611401b13bd0647ef638586bd22",
+      "bytes": 48913,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2097,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2097,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-pool",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-pool.jpg",
+      "public": "docs/captures/review-mobile-pool.jpg",
+      "sha256": "ddf6140c31bb6186a9c0a5a0230f093f3ccd6c878f4a470e484bfd64af047d93",
+      "bytes": 34619,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 976.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 976.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-kk-ready",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-kk-ready.jpg",
+      "public": "docs/captures/review-mobile-kk-ready.jpg",
+      "sha256": "d19400bcf42e68b8d7311ecd973944b3350b0d1cfa1b0308030ee95c8107372b",
+      "bytes": 41828,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2001,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2001,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-sources",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-sources.jpg",
+      "public": "docs/captures/review-mobile-sources.jpg",
+      "sha256": "0bbcbf2f4cbb85bc02554c5d5748f78db95c4307fe020c3861e74614a0ec80bb",
+      "bytes": 39750,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-profile-editor",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-profile-editor.jpg",
+      "public": "docs/captures/review-mobile-profile-editor.jpg",
+      "sha256": "bcd084e60210ffdd76094b0968c9e0c91af94d5cbae93801789c0a6a7f06b0d9",
+      "bytes": 30450,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 847.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 847.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-unknown-account",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-unknown-account.jpg",
+      "public": "docs/captures/review-mobile-unknown-account.jpg",
+      "sha256": "4267bac19e9eff87fae895ed0fdd6c8474165164bf6cb55cf73aefeeea9ceb94",
+      "bytes": 40502,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-account-reconciled",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-account-reconciled.jpg",
+      "public": "docs/captures/review-mobile-account-reconciled.jpg",
+      "sha256": "0ee0e1de7efc5d41828f416271caa93e69bed67a959319b4571bbb7025a6d02c",
+      "bytes": 36404,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 860,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 860,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-desktop-admin",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-desktop-admin.jpg",
+      "public": "docs/captures/review-desktop-admin.jpg",
+      "sha256": "eb17e6771e283d9051835dbf5cb704e145e819bee3aedd5a49271979fe93465e",
+      "bytes": 88755,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-desktop-sources",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-desktop-sources.jpg",
+      "public": "docs/captures/review-desktop-sources.jpg",
+      "sha256": "69e0b4633096012c82a6469cfeb3cff6427244a5f41e0aa4049cc5eb9170528a",
+      "bytes": 96659,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-desktop-history",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-desktop-history.jpg",
+      "public": "docs/captures/review-desktop-history.jpg",
+      "sha256": "e30c097147730145e545a3fa8fccf849498822311cae0f378b7f7d98673fa611",
+      "bytes": 79423,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        1100,
+        1087
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-mobile-login",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-mobile-login.jpg",
+      "public": "docs/captures/review-mobile-login.jpg",
+      "sha256": "fb2a64699659ff6cf99f982132dfa2a586f28fbb290814128ff64bac126fc871",
+      "bytes": 27887,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "isolatedQA_actual_authDB_copy"
+    },
+    {
+      "name": "review-main-mobile-closed",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-main-mobile-closed.jpg",
+      "public": "docs/captures/review-main-mobile-closed.jpg",
+      "sha256": "fe9812e19c35035376af84026ce3aa9a638c4f027f6743aed23fa6243f5bfe80",
+      "bytes": 38103,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "main_actual_synthetic_workflow"
+    },
+    {
+      "name": "review-main-mobile-archive",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/review-main-mobile-archive.jpg",
+      "public": "docs/captures/review-main-mobile-archive.jpg",
+      "sha256": "724df45e1b3331e96ff3e6b82cbf7053cd49233f0c2fda7191b5a4449dfbfaa9",
+      "bytes": 30214,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "fed67903d49594ab549f567d4832010690f56e37f901e07eda06135f88170e18",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "f38844ddb5ad1005c765ce6bc7e0ae6bf02a77c12f8de27202bbf3469cc2a3b2",
+        "public/styles.css": "bc32045d4150abbf31cabbbf892590325aa0039548ae77bb055d931ed4f6d77a",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "0decba066d82d73a13f6596687f886b61fc6698709f41947708f90e95564d9c4",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "pixelSize": [
+        400,
+        760
+      ],
+      "required": true,
+      "scope": "main_actual_synthetic_workflow"
+    }
+  ],
+  "claims": {
+    "main": "1278862/current40519/domain16/audit16; acceptedcommands1–16 done exactlyonce; oldalpha8snapshotunchangedafter9/13/14/15/16 exceptownvisibilityarchive16.",
+    "qa": "localhost8890/privateauthDB/sourceunchanged. Restorecopyofmain12→QA1;oneexplicitQAprofileedit→QA2;oneaccountPOSTactuallycommitted but responseJSONtruncated byprivatewrapper,unknownUI/explicitusersGET foundexactone/noapplicationresend. No extra maincommands.",
+    "testCount": 55,
+    "viewport": "1100×1087actual and400×760ordinaryviewportJPEG. Pre/postCSS/sourceexact. No fullPage capability, touch,AT,1440,physicaldevice,load,lowmemory,security or publicSaaSaudit."
+  },
+  "limits": [
+    "All codesandbriefsfictional,noexternalmessages,realpeopleorAI.",
+    "Plainstaffsharedworkspace,nottentantisolation.",
+    "Inferredmuseumlabelpalette,standardwebcontrols; Operatelayoutisfamiliar.",
+    "Main/mobilehistorycontentcaptureandclosed15arecurrentappcodewith10sourcehashes;newreviewcaptures11includingstrictJSONparser.",
+    "No approvedcomp or chosenqualitybarimage; code-ledoperate."
+  ]
+}

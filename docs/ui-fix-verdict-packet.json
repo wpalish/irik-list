@@ -1,0 +1,1277 @@
+{
+  "mode": "verdict_only",
+  "source_staging": "17scoped81addf2captures +6a528d74intermediate narrow wrapping captures +2FINALcurrent whole-word navigation captures. All raw/source/prepost hashes retained at ownstage; not all-final-current claim.",
+  "product": "irik-list",
+  "commit": "d4a421feb68973de0498c7f6eff30b15e3da19eb",
+  "full_review": "docs/finish-review-full-before-fixes.json",
+  "fixes": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "captures": [
+    {
+      "name": "verdict-mobile-ru-criteria",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-ru-criteria.jpg",
+      "public": "docs/captures/verdict-mobile-ru-criteria.jpg",
+      "sha256": "0a1502d9830f758be1707632d9689f8848bdda47e2a87d21cbff24ed016ffc84",
+      "bytes": 45960,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-kk-criteria",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-kk-criteria.jpg",
+      "public": "docs/captures/verdict-mobile-kk-criteria.jpg",
+      "sha256": "a8a1ad82864200934755ed363140c383e111a38bdbb39284854c6644c37a4bf4",
+      "bytes": 45522,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-version4",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-version4.jpg",
+      "public": "docs/captures/verdict-mobile-version4.jpg",
+      "sha256": "cea048252648630a95378ba1ad4f622b7bca8569506fcf3394e18bf138c13e60",
+      "bytes": 43018,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1498.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1498.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-changed5",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-changed5.jpg",
+      "public": "docs/captures/verdict-mobile-changed5.jpg",
+      "sha256": "710a00a75815eead5603c921199a7b6a8111c05743975798a497f0a22c778eb5",
+      "bytes": 46121,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1648.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1648.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-desktop-changed5",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-desktop-changed5.jpg",
+      "public": "docs/captures/verdict-desktop-changed5.jpg",
+      "sha256": "ebe3157990e00ca53eff3e17d6e58646df7aab6ee3984613680d957f358697f8",
+      "bytes": 116130,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 556,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 556,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-desktop-accepted5",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-desktop-accepted5.jpg",
+      "public": "docs/captures/verdict-desktop-accepted5.jpg",
+      "sha256": "de4aece8a0443bf38cadd5bdb798f04465423233a8cef5facca3f0111e39496f",
+      "bytes": 114080,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 437,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 437,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-partial-retained-kk",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-partial-retained-kk.jpg",
+      "public": "docs/captures/verdict-mobile-partial-retained-kk.jpg",
+      "sha256": "b3980d2d7b357a8a3892382cd4dbaaf49353ddc4583353abe840fb5d033739b4",
+      "bytes": 32938,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1515.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1515.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-topics-four-kk",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-topics-four-kk.jpg",
+      "public": "docs/captures/verdict-mobile-topics-four-kk.jpg",
+      "sha256": "8969e92f5370b35cfb91facba7abfe37bd1c97bb38aae4d1e86d8d71132c4a07",
+      "bytes": 32190,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2258.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2258.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-desktop-brief-preserved",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-desktop-brief-preserved.jpg",
+      "public": "docs/captures/verdict-desktop-brief-preserved.jpg",
+      "sha256": "02718da981cd734386d6b2200920908b8535f0610b32f30344e97c86eaa69dd2",
+      "bytes": 96738,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 388,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 388,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-pending-account",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-pending-account.jpg",
+      "public": "docs/captures/verdict-mobile-pending-account.jpg",
+      "sha256": "263394d2b5a0f2b6c760bd1fd457ae477a4c78947593dd88ec243ec7e0ac528c",
+      "bytes": 48572,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-unknown-account",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-unknown-account.jpg",
+      "public": "docs/captures/verdict-mobile-unknown-account.jpg",
+      "sha256": "a8dff739e8d5d5731d76b29bf6217b700c82c7204d01c24244987fb169a68bc0",
+      "bytes": 49056,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-account-read-recovered",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-account-read-recovered.jpg",
+      "public": "docs/captures/verdict-mobile-account-read-recovered.jpg",
+      "sha256": "5feee889bd09807d5e5990410406d11762a9549ea5c3b1d38cdec7be44867922",
+      "bytes": 45505,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-account-listed-once",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-account-listed-once.jpg",
+      "public": "docs/captures/verdict-mobile-account-listed-once.jpg",
+      "sha256": "6bf18b3a8784ee7660f838d2c5faf01cf75097a467b527a3ec7296e00c51bd89",
+      "bytes": 39142,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 621,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 621,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-mobile-save-success",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-mobile-save-success.jpg",
+      "public": "docs/captures/verdict-mobile-save-success.jpg",
+      "sha256": "0c5531cce334fbaca673c3b7d5d87a83fccb03a80f005ac5afd9a8d157df797f",
+      "bytes": 50077,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-main-mobile-closed16",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-main-mobile-closed16.jpg",
+      "public": "docs/captures/verdict-main-mobile-closed16.jpg",
+      "sha256": "65ad22ad27397675c6f0df6c68bded93ff83336ed6ab61b7786b55e6cd3f7fcc",
+      "bytes": 42226,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-main-mobile-archive16",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-main-mobile-archive16.jpg",
+      "public": "docs/captures/verdict-main-mobile-archive16.jpg",
+      "sha256": "d50243c3860379d2b64229b28ac2defc825cbaaaaf53ef937bdf99fadd9a8d44",
+      "bytes": 36584,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "verdict-desktop-criteria-final",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/verdict-desktop-criteria-final.jpg",
+      "public": "docs/captures/verdict-desktop-criteria-final.jpg",
+      "sha256": "cf5ec3ff7954144fc7d1dce213a11272641f5f851baad29d5cad6dbf65820659",
+      "bytes": 103786,
+      "pre": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "post": {
+        "dpr": 1,
+        "height": 1087,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 1100
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "cf542b2014f886a155805772a0729a6724118a155441fce108b1790c75f1aed0",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "81addf2_before_narrow_nav_wrap_only"
+    },
+    {
+      "name": "final-mobile-admin-criteria-ru",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/final-mobile-admin-criteria-ru.jpg",
+      "public": "docs/captures/final-mobile-admin-criteria-ru.jpg",
+      "sha256": "7c54b075e519f278054310fa367203ec94ef315c6776f34f563d0477eacf27b9",
+      "bytes": 45729,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current"
+    },
+    {
+      "name": "final-mobile-admin-criteria-kk",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/final-mobile-admin-criteria-kk.jpg",
+      "public": "docs/captures/final-mobile-admin-criteria-kk.jpg",
+      "sha256": "0adf82366eed3cbc82352363657822856b2f6829e1fa3f930ab166ab77be3b7d",
+      "bytes": 45264,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current"
+    },
+    {
+      "name": "final-mobile-topics-zero-ru",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/final-mobile-topics-zero-ru.jpg",
+      "public": "docs/captures/final-mobile-topics-zero-ru.jpg",
+      "sha256": "3c32c42028f68c1d327677487138bfaefc6b539d94c211c74d72b8a76ff5e2be",
+      "bytes": 32113,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2238,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2238,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current"
+    },
+    {
+      "name": "final-mobile-topics-four-ru",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/final-mobile-topics-four-ru.jpg",
+      "public": "docs/captures/final-mobile-topics-four-ru.jpg",
+      "sha256": "93a9d0b62c237abf107cf311c05ce855924ec9e6345f6853bb18b615ea7de90a",
+      "bytes": 32930,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2238,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2238,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current"
+    },
+    {
+      "name": "final-mobile-partial-retained-kk",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/final-mobile-partial-retained-kk.jpg",
+      "public": "docs/captures/final-mobile-partial-retained-kk.jpg",
+      "sha256": "5fa78ce3b4eb86f48af9b9879c3d9920a418689f4df7f55c72a336fcf5f73789",
+      "bytes": 32743,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1515.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 1515.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current"
+    },
+    {
+      "name": "final-mobile-topics-four-kk",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/final-mobile-topics-four-kk.jpg",
+      "public": "docs/captures/final-mobile-topics-four-kk.jpg",
+      "sha256": "8969e92f5370b35cfb91facba7abfe37bd1c97bb38aae4d1e86d8d71132c4a07",
+      "bytes": 32190,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2258.5,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 2258.5,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "0ec21dab21ca186abc60a72d5001875506657a082964cd072d5579d9858fadcc",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current"
+    },
+    {
+      "name": "nav-top-mobile-ru",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/nav-top-mobile-ru.jpg",
+      "public": "docs/captures/nav-top-mobile-ru.jpg",
+      "sha256": "c48f50d2d9abf761dea07c0c2cf367cb16063589c9aaf323d527435d42a6e0d9",
+      "bytes": 44790,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current_wholeword_navigation"
+    },
+    {
+      "name": "nav-top-mobile-kk",
+      "raw": "/Users/wpalish/Documents/Codex/2026-10-24/https-www-producthunt-com-https-www/work/program/irik-captures/nav-top-mobile-kk.jpg",
+      "public": "docs/captures/nav-top-mobile-kk.jpg",
+      "sha256": "7c56d18409456d7ada0d4d348906444ad192ded81059163cde55028748fd95ee",
+      "bytes": 44326,
+      "pre": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "post": {
+        "dpr": 1,
+        "height": 760,
+        "overflow": 0,
+        "scrollY": 0,
+        "width": 400
+      },
+      "sourceBefore": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "sourceAfter": {
+        "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+        "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+        "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+        "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+        "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+        "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+        "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+        "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+        "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+        "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+        "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+      },
+      "opened": true,
+      "source_stage": "final_current_wholeword_navigation"
+    }
+  ],
+  "execution": {
+    "main": "16/audit16 unchanged; accepted commands1–16 never replayed",
+    "QA": "new version4→5 command at3 and one corrected valid brief at4; existing QA was not reseeded; no QA shortlist POST",
+    "F3_F4": "actual0 and4topics errors RU/KK; focus first topic/aria-invalid+describedby; blank KKtitle,Shymkent,en,4topics,all retained on language switch",
+    "F5": "one distinct SYN_qa_pending_f5 successful account POST held by private wrapper, pending capture; released invalid JSON; unknown capture; explicit GETusers found exactly one; no application resend. Older SYN_qa_account was not replayed. Current5users; domain4/audit4",
+    "F1": "actual400x760 top RU/KK: header90,brief complete,first reason start635.3",
+    "scope": "main authenticated local app and isolated authenticated private QA DB; no external account/customer action"
+  },
+  "tests": {
+    "count": 58,
+    "pass": 58,
+    "fail": 0,
+    "skip": 0,
+    "todo": 0,
+    "new_UI_regressions": 3,
+    "not_extra_tests": "repeated runs are not additional tests"
+  },
+  "excluded": [
+    {
+      "name": "verdict-main-desktop-history16",
+      "reason": "name says desktop but actualCSS400; duplicate mobile observation, excluded from verdict"
+    }
+  ],
+  "limits": [
+    "no touch/AT/1440/physicaldevice/load/lowmemory/fullsecurity/publicSaaSaudit",
+    "not a fresh whole audit: score six fixes with preserved original20view full review",
+    "direction inferred; owner only confirmed criteria/reasons priority",
+    "detector/context each once; not repeated"
+  ],
+  "navigation_followup": {
+    "regression": "Reviewer found arbitrary letter splitting in a528d74 mobile admin nav",
+    "fix": "Only narrow nav rule changed to flex:1 1 auto +white-space:nowrap; natural second row preserves whole labels",
+    "proof": "nav-top-mobile-ru and nav-top-mobile-kk actual400x760 scroll0/overflow0, completecriteria/startreasonsvisible",
+    "no_new_domain_mutation": true
+  }
+}

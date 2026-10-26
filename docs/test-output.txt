@@ -1,0 +1,358 @@
+TAP version 13
+# Subtest: criteria and all three literal reasons appear before selection and prepared draft is not saved
+ok 1 - criteria and all three literal reasons appear before selection and prepared draft is not saved
+  ---
+  duration_ms: 24.992292
+  type: 'test'
+  ...
+# Subtest: real checkbox and textarea consumer send exact version/rationale on explicit form submit
+ok 2 - real checkbox and textarea consumer send exact version/rationale on explicit form submit
+  ---
+  duration_ms: 3.772334
+  type: 'test'
+  ...
+# Subtest: refresh shows retained old version and rationale,requires explicit current-version acceptance
+ok 3 - refresh shows retained old version and rationale,requires explicit current-version acceptance
+  ---
+  duration_ms: 1.430417
+  type: 'test'
+  ...
+# Subtest: language change rerenders literal reasons and unknown-outcome recovery with no automatic resend
+ok 4 - language change rerenders literal reasons and unknown-outcome recovery with no automatic resend
+  ---
+  duration_ms: 1.375791
+  type: 'test'
+  ...
+# Subtest: identity clear hides prior records and clears source/account form drafts
+ok 5 - identity clear hides prior records and clears source/account form drafts
+  ---
+  duration_ms: 0.384292
+  type: 'test'
+  ...
+# Subtest: unknown account response requires explicit users read and keeps account form without resending
+ok 6 - unknown account response requires explicit users read and keeps account form without resending
+  ---
+  duration_ms: 0.473667
+  type: 'test'
+  ...
+# Subtest: raw duplicate-key restore file refuses visibly before any domain command
+ok 7 - raw duplicate-key restore file refuses visibly before any domain command
+  ---
+  duration_ms: 1.203166
+  type: 'test'
+  ...
+# Subtest: held restore file preparation cannot submit under another identity
+ok 8 - held restore file preparation cannot submit under another identity
+  ---
+  duration_ms: 1.476958
+  type: 'test'
+  ...
+# Subtest: source A completion cannot erase newer unsaved source B fields
+ok 9 - source A completion cannot erase newer unsaved source B fields
+  ---
+  duration_ms: 2.049458
+  type: 'test'
+  ...
+# Subtest: brief topic bounds identify the group,localize correction and preserve other fields
+ok 10 - brief topic bounds identify the group,localize correction and preserve other fields
+  ---
+  duration_ms: 1.166042
+  type: 'test'
+  ...
+# Subtest: language switch preserves raw partial brief choices even with zero or four topics
+ok 11 - language switch preserves raw partial brief choices even with zero or four topics
+  ---
+  duration_ms: 0.472042
+  type: 'test'
+  ...
+# Subtest: pending and successful account operation have distinct localized status and busy state
+ok 12 - pending and successful account operation have distinct localized status and busy state
+  ---
+  duration_ms: 0.8395
+  type: 'test'
+  ...
+# Subtest: current pool literal reasons and closure derive from current state without modifying it
+ok 13 - current pool literal reasons and closure derive from current state without modifying it
+  ---
+  duration_ms: 3.236542
+  type: 'test'
+  ...
+# Subtest: draft submits selected version and trimmed actual reason only after explicit choice
+ok 14 - draft submits selected version and trimmed actual reason only after explicit choice
+  ---
+  duration_ms: 0.637375
+  type: 'test'
+  ...
+# Subtest: same version refresh preserves explanations and selection without requiring reaccept
+ok 15 - same version refresh preserves explanations and selection without requiring reaccept
+  ---
+  duration_ms: 0.187542
+  type: 'test'
+  ...
+# Subtest: changed matching profile blocks and preserves old version until explicit reaccept
+ok 16 - changed matching profile blocks and preserves old version until explicit reaccept
+  ---
+  duration_ms: 0.328542
+  type: 'test'
+  ...
+# Subtest: changed ineligible or archived profile cannot reaccept and remains visible in draft
+ok 17 - changed ineligible or archived profile cannot reaccept and remains visible in draft
+  ---
+  duration_ms: 0.480667
+  type: 'test'
+  ...
+# Subtest: closed publication or already committed operator list blocks existing draft without erasing it
+ok 18 - closed publication or already committed operator list blocks existing draft without erasing it
+  ---
+  duration_ms: 0.4635
+  type: 'test'
+  ...
+# Subtest: selection limit refuses sixth and switching publication clears prior reasons
+ok 19 - selection limit refuses sixth and switching publication clears prior reasons
+  ---
+  duration_ms: 0.158042
+  type: 'test'
+  ...
+# Subtest: explicit same-account refresh retains draft, identity change clears data and late actor reply
+ok 20 - explicit same-account refresh retains draft, identity change clears data and late actor reply
+  ---
+  duration_ms: 7.369417
+  type: 'test'
+  ...
+# Subtest: unknown domain POST blocks another write until successful explicit state reconciliation
+ok 21 - unknown domain POST blocks another write until successful explicit state reconciliation
+  ---
+  duration_ms: 0.417875
+  type: 'test'
+  ...
+# Subtest: partial successful account response requires users GET; ordinary state read cannot clear it
+ok 22 - partial successful account response requires users GET; ordinary state read cannot clear it
+  ---
+  duration_ms: 0.360208
+  type: 'test'
+  ...
+# Subtest: known stale response preserves draft while successful write clears only committed draft
+ok 23 - known stale response preserves draft while successful write clears only committed draft
+  ---
+  duration_ms: 0.18575
+  type: 'test'
+  ...
+# Subtest: held pre-login session cannot replace a later successful identity
+ok 24 - held pre-login session cannot replace a later successful identity
+  ---
+  duration_ms: 0.077375
+  type: 'test'
+  ...
+# Subtest: held pre-write state cannot roll a successful command revision backwards
+ok 25 - held pre-write state cannot roll a successful command revision backwards
+  ---
+  duration_ms: 0.853542
+  type: 'test'
+  ...
+# Subtest: read begun before an unknown write cannot reconcile that unknown outcome
+ok 26 - read begun before an unknown write cannot reconcile that unknown outcome
+  ---
+  duration_ms: 0.557167
+  type: 'test'
+  ...
+# Subtest: automatic lifecycle read keeps unknown blocked until a later explicit relevant read
+ok 27 - automatic lifecycle read keeps unknown blocked until a later explicit relevant read
+  ---
+  duration_ms: 0.366542
+  type: 'test'
+  ...
+# Subtest: profile normalization keeps missing fields and canonical distinct enum order
+ok 28 - profile normalization keeps missing fields and canonical distinct enum order
+  ---
+  duration_ms: 2.470833
+  type: 'test'
+  ...
+# Subtest: profile rejects coercion, unknown enum, extra keys and duplicate labels
+ok 29 - profile rejects coercion, unknown enum, extra keys and duplicate labels
+  ---
+  duration_ms: 0.703333
+  type: 'test'
+  ...
+# Subtest: code normalization enforces synthetic bounded immutable code alphabet
+ok 30 - code normalization enforces synthetic bounded immutable code alphabet
+  ---
+  duration_ms: 0.308709
+  type: 'test'
+  ...
+# Subtest: brief normalizes titles and rejects unknown, empty or control input
+ok 31 - brief normalizes titles and rejects unknown, empty or control input
+  ---
+  duration_ms: 0.239333
+  type: 'test'
+  ...
+# Subtest: all matching yields three literal reasons with independently specified values
+ok 32 - all matching yields three literal reasons with independently specified values
+  ---
+  duration_ms: 0.506417
+  type: 'test'
+  ...
+# Subtest: missing fields fail required conditions and are distinguished from mismatches
+ok 33 - missing fields fail required conditions and are distinguished from mismatches
+  ---
+  duration_ms: 0.875083
+  type: 'test'
+  ...
+# Subtest: any city and language ignore missing data but topic any still needs a match
+ok 34 - any city and language ignore missing data but topic any still needs a match
+  ---
+  duration_ms: 0.244042
+  type: 'test'
+  ...
+# Subtest: topic all refuses a partial match while any accepts it without relaxing city
+ok 35 - topic all refuses a partial match while any accepts it without relaxing city
+  ---
+  duration_ms: 0.252625
+  type: 'test'
+  ...
+# Subtest: synthetic code rejects Unicode case expansion instead of silently changing code identity
+ok 36 - synthetic code rejects Unicode case expansion instead of silently changing code identity
+  ---
+  duration_ms: 0.305416
+  type: 'test'
+  ...
+# Subtest: authenticated safe reads expose shared domain but no key ledger, password or session digest
+ok 37 - authenticated safe reads expose shared domain but no key ledger, password or session digest
+  ---
+  duration_ms: 235.970333
+  type: 'test'
+  ...
+# Subtest: actual matching shortlist POST freezes reason and forbids admin or other creator archive
+ok 38 - actual matching shortlist POST freezes reason and forbids admin or other creator archive
+  ---
+  duration_ms: 209.035083
+  type: 'test'
+  ...
+# Subtest: Origin,Host,CSRF,authentication and admin routes reject with whole workspace/audit equality
+ok 39 - Origin,Host,CSRF,authentication and admin routes reject with whole workspace/audit equality
+  ---
+  duration_ms: 206.819791
+  type: 'test'
+  ...
+# Subtest: strict JSON rejects decoded duplicates, prototype keys, invalid UTF8 and oversized bodies
+ok 40 - strict JSON rejects decoded duplicates, prototype keys, invalid UTF8 and oversized bodies
+  ---
+  duration_ms: 196.1015
+  type: 'test'
+  ...
+# Subtest: unknown route,method,query and malformed publication IDs never write
+ok 41 - unknown route,method,query and malformed publication IDs never write
+  ---
+  duration_ms: 195.618125
+  type: 'test'
+  ...
+# Subtest: actual stale command,extra field,coerced version and replay reject atomically
+ok 42 - actual stale command,extra field,coerced version and replay reject atomically
+  ---
+  duration_ms: 191.227334
+  type: 'test'
+  ...
+# Subtest: HTTP empty restore exact data,corrupt snapshot refusal and one local restore audit
+ok 43 - HTTP empty restore exact data,corrupt snapshot refusal and one local restore audit
+  ---
+  duration_ms: 309.114958
+  type: 'test'
+  ...
+# Subtest: new account result can be reconciled by safe users read and logout revokes session
+ok 44 - new account result can be reconciled by safe users read and logout revokes session
+  ---
+  duration_ms: 132.977292
+  type: 'test'
+  ...
+# Subtest: create,edit and publish keep append-only versions and exact old publication
+ok 45 - create,edit and publish keep append-only versions and exact old publication
+  ---
+  duration_ms: 14.4065
+  type: 'test'
+  ...
+# Subtest: evaluation is deterministic, missing/mismatch explicit, archived profiles excluded
+ok 46 - evaluation is deterministic, missing/mismatch explicit, archived profiles excluded
+  ---
+  duration_ms: 2.139125
+  type: 'test'
+  ...
+# Subtest: shortlist freezes complete matched versions, literal reasons, owner and authored rationale
+ok 47 - shortlist freezes complete matched versions, literal reasons, owner and authored rationale
+  ---
+  duration_ms: 1.156375
+  type: 'test'
+  ...
+# Subtest: current role and shortlist creator are enforced without admin ownership override
+ok 48 - current role and shortlist creator are enforced without admin ownership override
+  ---
+  duration_ms: 1.782291
+  type: 'test'
+  ...
+# Subtest: code, publication version and operator-publication uniqueness persist after archive
+ok 49 - code, publication version and operator-publication uniqueness persist after archive
+  ---
+  duration_ms: 4.804792
+  type: 'test'
+  ...
+# Subtest: stale unrelated revision, reused UUID and backward clock reject whole workspace and audit
+ok 50 - stale unrelated revision, reused UUID and backward clock reject whole workspace and audit
+  ---
+  duration_ms: 1.22225
+  type: 'test'
+  ...
+# Subtest: new shortlist rejects changed, ineligible, duplicate and empty entries atomically
+ok 51 - new shortlist rejects changed, ineligible, duplicate and empty entries atomically
+  ---
+  duration_ms: 1.455333
+  type: 'test'
+  ...
+# Subtest: brief archive closes new selections without changing a saved snapshot
+ok 52 - brief archive closes new selections without changing a saved snapshot
+  ---
+  duration_ms: 1.047291
+  type: 'test'
+  ...
+# Subtest: safe staff reads omit key ledger; reading and exporting never append a domain event
+ok 53 - safe staff reads omit key ledger; reading and exporting never append a domain event
+  ---
+  duration_ms: 0.60225
+  type: 'test'
+  ...
+# Subtest: file reopen preserves complete domain and audit
+ok 54 - file reopen preserves complete domain and audit
+  ---
+  duration_ms: 4.644708
+  type: 'test'
+  ...
+# Subtest: empty restore replays exact historical snapshots and keeps keys plus one marker
+ok 55 - empty restore replays exact historical snapshots and keeps keys plus one marker
+  ---
+  duration_ms: 2.189166
+  type: 'test'
+  ...
+# Subtest: restore refuses duplicate immutable versions, forged reasons, event binding and unknown current actors
+ok 56 - restore refuses duplicate immutable versions, forged reasons, event binding and unknown current actors
+  ---
+  duration_ms: 4.782542
+  type: 'test'
+  ...
+# Subtest: profile capacity includes archived rows and refuses without recording a command
+ok 57 - profile capacity includes archived rows and refuses without recording a command
+  ---
+  duration_ms: 39.497292
+  type: 'test'
+  ...
+# Subtest: chronology compares numeric epochs and refuses a consistent expanded-year future backup
+ok 58 - chronology compares numeric epochs and refuses a consistent expanded-year future backup
+  ---
+  duration_ms: 0.674083
+  type: 'test'
+  ...
+1..58
+# tests 58
+# suites 0
+# pass 58
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1794.940541

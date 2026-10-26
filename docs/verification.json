@@ -1,0 +1,111 @@
+{
+  "product": "irik-list",
+  "title": "IrikList",
+  "reference": 23,
+  "version": "0.1.0",
+  "as_of": "2026-10-26T18:02:44.461346+00:00",
+  "workflow_verified": true,
+  "tests": {
+    "passed": 58,
+    "failed": 0,
+    "skipped": 0,
+    "todo": 0,
+    "reporter": "tap",
+    "log": "docs/test-output.txt",
+    "domain": 9,
+    "store": 14,
+    "HTTP": 8,
+    "controller": 15,
+    "UI_integration": 12,
+    "final_log_sha256": "49a45f15fd9d5e4d7e7408fd5028ea341e87ba0414d000ca4d8df1dfb110e011",
+    "scope": "58 unique tests; repeats,actualHTTP,capture/provenance and static documentation checks are not additional product tests"
+  },
+  "browser": {
+    "status": "ui_workflow_passed",
+    "synthetic_only": true,
+    "actual_viewports": [
+      1100,
+      400
+    ],
+    "desktop": "docs/captures/verdict-desktop-criteria-final.jpg",
+    "mobile": "docs/captures/nav-top-mobile-ru.jpg",
+    "workflow": "docs/browser-proof.json",
+    "external_action": false,
+    "scope": "Original full20view review plus scoped25fix-verdict views at explicitly preserved source stages. Latest2nav captures at finalCSS; older17fix+6intermediate captures not falsely marked all-current."
+  },
+  "acceptance": [
+    "Admin authored3 fictional coded profiles and bilingual brief; publication froze fullv1. Missing, mismatch, matching and ignored city/language/topic reasons were read in actual Chrome. Literal conditions are not a quality score or real creator ranking.",
+    "Unrelated authorized admin command6 made alpha prepared save stale409; wholeworkspace/audit/all5tables exact6. Explicitrefresh retained selectedversion/reason. New matching profilev2 at7 blocked oldv1 until explicit reacceptance; nativeTab/Enter froze one immutable alpha list8.",
+    "Later profilev3, briefv2 and publication2 did not change alpha saved profile/reasons/explanation. Beta in KK explicitly froze2entries12; source/profile/pub/brief closures13–15 and alpha creatorarchive16 preserved earlier snapshots. Final16/audit16,3profiles/6versions,1brief/2versions,2pubs,2lists,16keys; no accepted command replay.",
+    "Owned main40040→40519 at8 preserved wholeworkspace/audit/all5own/76priorDBs. A distinct required server-copy update40519→41489 at16 and QA40856→41490 at2 preserved both whole/audit/all5each and79otherprivateDBs. JSON-vs-nullprototype evidence-helper correction changed comparison representation only, no second stop or domain replay.",
+    "27 actual authenticated main HTTP refusals each preserved whole16/audit16. CurrentJSON fresh privateemptyrestore200 exactly3profiles/1brief/2pubs/2lists/original16keys plus freshrestorekey/audit1; duplicate nestedversion corruption400 emptyunchanged; ephemeral serverclosed.",
+    "Isolated real-auth/privateQA main12 copy restoredonce, profilev3→4→5 gave actual selectedversion conflict, retained explanation, blockedsubmit and explicitaccept. Rawpartialbrief/4topics/Shymkent/en/all/blankKKtitle survived language switch. Zero/fourtopics produced associated RU/KKgroup errors, aria-invalid and nativecheckboxfocus; no rejected form POST.",
+    "Two distinct QA account createPOST actions each occurredonce: truncated successful JSON→unknown; later held successful response→visiblepending/aria-busy→truncatedJSONunknown. Explicit relevant usersGET found one per name, no applicationautoresend. Corrected4→3topics brief savedonce atQA4/audit4 and forest success shown. No mainaccount mutation or QA shortlistPOST.",
+    "Fresh source review at327efe3 found6important groups+ASCIIidentity issue; onebatchdf2609 watched9regressions RED46/9→55/0. FreshfullImpeccable20view review found6fixes;3meaningful newregressions RED55/3→58/0. Same reviewer scoredF1–F6+navR1resolved/ship WITH preservedfullreview. Mechanical context/detector eachonce; detector[] not a cleanbill.",
+    "Final freshidentity cleanup stopped only QA41490:8890 and decision39275:59534 once; main41489:8862 staysrunning. Main16/QA4/wholeaudit/all5each/81otherprivateDB equal beforeafter; consistentprivatecopies exact. OwnQA/main/decisiontabsclosed, temporaryviewportreset. Static8main routes exact servedbytes/no-cache; APIsno-store."
+  ],
+  "limits": [
+    "Original manual fictional coded-profile shortlist, not AhaCreator AI, real creator statistics, scraping, identity/audience verification, invitation, consent, outreach, contract or payment. No real profile/name/contact/photo/customerdata/externalAPI/expense.",
+    "All staff share fictional domain/history and capacity. Current roles and creator-only shortlist visibility archive are checked; admin cannot override owner. Not tenant isolation, fullsecurity certification, authenticity, historicalidentity or rights proof.",
+    "Only3 finite cities,3languages,7topics; profilemayomit data, brief requires1–3topics/any or all, literalANDcity/language/topic. StableASCII SYN_code permanently unique. No arbitrary fields, similarity/qualityscore or actual audience recommendation.",
+    "Append-only profile/brief versions and frozenpub/list snapshot. One list per publication/operator forever,1–5distinct currentmatchingversions with1–500UTF16manualexplanation. No edit/delete/reassign/reopen/unarchive; archived sources close new actions without altering earlier snapshots.",
+    "GlobalrevisionCAS/freshlowerUUIDv4/numericclockguard under transaction; unrelatedwrites can cause stale, replayreject is not idempotentsuccess. Reads/time do not performdomaincommands. Caps80profiles/400versions/40briefs/200versions/100pubs/200lists/1200keys/1.5MUTF8domainbytes include history.",
+    "JSON2MiB strictoriginalUTF8/decodedduplicates/currentreferencedroles/emptyrestore/ledgerreplay. Excludesauth/users/sessions/failures/audit, appendsfreshrestorekey/audit1. Consistent maliciousrewrites not cryptographically prevented. FullconsistentSQLitebackup remainsprivate.",
+    "UnknownPOSTmayhavecommitted; explicit relevantread begunafterunknown required; auto lifecycle read does not unblock and applicationdoesnotresend. Sameidentity live in-apprefresh retains draft; fullreloadmaylose. Identityclear cannoterase copies/knowledge.",
+    "Actualdesktop1100/mobile400/nativekeyboard/RU/KKviewportJPEG only. Source/controllerasync tests are not actualbrowser execution of everyrace. No touch,AT,1440,physicaldevice,load,lowmemory,publicserver/fullsecurity audit. OnlySabaqLoop in programme has publicbrowserdemo.",
+    "Code-led Operate: ownerconfirmedfirstscreencriteria/reasons. Assignedvisualworld inferredaftertwoactualunansweredwaits, not ownerapproval. No approvedcomp/qualitybarimage or compfidelity claim. Historiccapturehashes preserved bystage; finalCSSnav proven2currentviews.",
+    "Threecompanyhypotheses retain06:35officialread/06:44record26Oct, notfreshcontactresearch or demand. Jois addressiscreatorapplications, notsoftwareprocurement; noimpersonation/pitchthere. Fullworkingmail/Sent/pending/allusedchannels notchecked;0newmail/TGqueries/sends/drafts/replytimechanges/customer/revenue."
+  ],
+  "runtime": {
+    "pid": 41489,
+    "port": 8862,
+    "script": "work/program/run-irik-list.mjs",
+    "before": "work/program/irik-ui-restart-before.json",
+    "after": "work/program/irik-ui-restart-after.json",
+    "final_revision": 16,
+    "final_proof": "work/program/irik-cleanup-after.json",
+    "fixture_cleanup": "work/program/irik-fixtures-stop.json"
+  },
+  "preservation": {
+    "before": "work/program/irik-cleanup-before.json",
+    "after": "work/program/irik-cleanup-after.json",
+    "previous_servers": 39,
+    "private_databases": 81,
+    "own_table_count": 5,
+    "scope": "PerDB-consistent table fingerprints and ownworkspace/audit equality, not one globalatomicbackup. Private fullcopies remainprivate.",
+    "sabaqloop_owner_origin": "untouched"
+  },
+  "review": {
+    "status": "ship_full_review_plus_six_fixes_and_nav_resolved",
+    "file": "docs/finish-review.json",
+    "full_review": "docs/finish-review-full-before-fixes.json",
+    "verdict": "docs/ui-fix-verdict.json",
+    "code": "docs/code-review-verdict.json",
+    "detector": "once[] notcleanbill"
+  },
+  "documentation": {
+    "status": "completed_source_correspondence",
+    "record": "docs/design-documentation.json",
+    "scope": "12normativecolors/10scriptlessexamples/151staticassertions,notproducttests"
+  },
+  "commercial": {
+    "potential_company_matches": 3,
+    "qualified_buyers": 0,
+    "interest_confirmed": 0,
+    "new_sends": 0
+  },
+  "sourceHashes": {
+    "public/app.js": "61e5213a3b9551a93bd5645a334d25bbbe30c25987820903e6049db071a4d1ae",
+    "public/controller.js": "11ba26c9e6130e2114bda02f31693298577fc0b82d4262bbc5a23287acc08898",
+    "public/domain.js": "1266c26f6daa97716cb9996d3fc6176cb42f7381e196f27532c63429e0f6d27b",
+    "public/index.html": "9e75b19d208f268ea9fcb66ca2c8a29de336a76a6663964dcad06aa40ec16795",
+    "public/styles.css": "99e689258352d83feea73ef64fd43e6867ca6d25459350222bc4c8c27140cc46",
+    "lib/store.js": "2e65763429c8c16a1bfbc50a34b13a42198f22e3aefd8911533c236ea3b9ae48",
+    "server.js": "1de6103b97e27d610b50c1ce6aaa1c149577e3c97c52b3e0118b331603b40a45",
+    "module.js": "76c2bdd9b5c471ad0b8f6d69c534352ecb6797ce5cc7c99fbb2218115b6c827f",
+    "lib/json.js": "c8f8f23bfc3e7d2a346ed1eeeaf1ea8cc500de5948b08ff35175991febf07947",
+    "lib/errors.js": "5e750aca08eb1980203a8288f498d2af1afd2a31b0c4e8678689f72677ec6265",
+    "public/strict-json.js": "5da55c752a7700de5c9a2863096829a82ad722a3dfe6ed9237628b4a47e601b6"
+  },
+  "release_note": "IrikList: originalmanualfictionalprofilecriteria/reasons andimmutable1–5entryshortlist;58tests,actual1100/400RU/KK/nativekeyboard/stale/versionconflict/history/27HTTPrefusals/restore. Main16/audit16,ownedrestart/preservation/all5/81prior cleanup. FullUIreview+F1–F6/R1resolvedship;staticdesign docs. NoAI/realcreators/outbound/tenant/publicSaaS/customerclaim."
+}

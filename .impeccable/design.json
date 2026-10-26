@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-26T18:04:58.107810Z",
+  "title": "Design System: IrikList",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "role": "primary",
+        "displayName": "Forest",
+        "tonalRamp": [
+          "oklch(15% 0.04934 174.574)",
+          "oklch(27% 0.04934 174.574)",
+          "oklch(39% 0.04934 174.574)",
+          "oklch(51% 0.04934 174.574)",
+          "oklch(63% 0.04934 174.574)",
+          "oklch(75% 0.04934 174.574)",
+          "oklch(87% 0.04934 174.574)",
+          "oklch(95% 0.04934 174.574)"
+        ]
+      },
+      "mint": {
+        "role": "neutral",
+        "displayName": "Pale Mint",
+        "tonalRamp": [
+          "oklch(15% 0.01600 148.402)",
+          "oklch(27% 0.01600 148.402)",
+          "oklch(39% 0.01600 148.402)",
+          "oklch(51% 0.01600 148.402)",
+          "oklch(63% 0.01600 148.402)",
+          "oklch(75% 0.01600 148.402)",
+          "oklch(87% 0.01600 148.402)",
+          "oklch(95% 0.01600 148.402)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "tonalRamp": [
+          "oklch(15% 0.01302 82.402)",
+          "oklch(27% 0.01302 82.402)",
+          "oklch(39% 0.01302 82.402)",
+          "oklch(51% 0.01302 82.402)",
+          "oklch(63% 0.01302 82.402)",
+          "oklch(75% 0.01302 82.402)",
+          "oklch(87% 0.01302 82.402)",
+          "oklch(95% 0.01302 82.402)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Work White",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.000)",
+          "oklch(27% 0.00000 0.000)",
+          "oklch(39% 0.00000 0.000)",
+          "oklch(51% 0.00000 0.000)",
+          "oklch(63% 0.00000 0.000)",
+          "oklch(75% 0.00000 0.000)",
+          "oklch(87% 0.00000 0.000)",
+          "oklch(95% 0.00000 0.000)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Deep Ink",
+        "tonalRamp": [
+          "oklch(15% 0.02906 170.177)",
+          "oklch(27% 0.02906 170.177)",
+          "oklch(39% 0.02906 170.177)",
+          "oklch(51% 0.02906 170.177)",
+          "oklch(63% 0.02906 170.177)",
+          "oklch(75% 0.02906 170.177)",
+          "oklch(87% 0.02906 170.177)",
+          "oklch(95% 0.02906 170.177)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Green",
+        "tonalRamp": [
+          "oklch(15% 0.02823 166.062)",
+          "oklch(27% 0.02823 166.062)",
+          "oklch(39% 0.02823 166.062)",
+          "oklch(51% 0.02823 166.062)",
+          "oklch(63% 0.02823 166.062)",
+          "oklch(75% 0.02823 166.062)",
+          "oklch(87% 0.02823 166.062)",
+          "oklch(95% 0.02823 166.062)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Sage Divider",
+        "tonalRamp": [
+          "oklch(15% 0.02876 153.715)",
+          "oklch(27% 0.02876 153.715)",
+          "oklch(39% 0.02876 153.715)",
+          "oklch(51% 0.02876 153.715)",
+          "oklch(63% 0.02876 153.715)",
+          "oklch(75% 0.02876 153.715)",
+          "oklch(87% 0.02876 153.715)",
+          "oklch(95% 0.02876 153.715)"
+        ]
+      },
+      "accent": {
+        "role": "secondary",
+        "displayName": "Peach Version",
+        "tonalRamp": [
+          "oklch(15% 0.10344 49.537)",
+          "oklch(27% 0.10344 49.537)",
+          "oklch(39% 0.10344 49.537)",
+          "oklch(51% 0.10344 49.537)",
+          "oklch(63% 0.10344 49.537)",
+          "oklch(75% 0.10344 49.537)",
+          "oklch(87% 0.10344 49.537)",
+          "oklch(95% 0.10344 49.537)"
+        ]
+      },
+      "danger": {
+        "role": "tertiary",
+        "displayName": "Error Red",
+        "tonalRamp": [
+          "oklch(15% 0.12511 26.618)",
+          "oklch(27% 0.12511 26.618)",
+          "oklch(39% 0.12511 26.618)",
+          "oklch(51% 0.12511 26.618)",
+          "oklch(63% 0.12511 26.618)",
+          "oklch(75% 0.12511 26.618)",
+          "oklch(87% 0.12511 26.618)",
+          "oklch(95% 0.12511 26.618)"
+        ]
+      },
+      "warn": {
+        "role": "tertiary",
+        "displayName": "Conflict Brown",
+        "tonalRamp": [
+          "oklch(15% 0.08629 53.261)",
+          "oklch(27% 0.08629 53.261)",
+          "oklch(39% 0.08629 53.261)",
+          "oklch(51% 0.08629 53.261)",
+          "oklch(63% 0.08629 53.261)",
+          "oklch(75% 0.08629 53.261)",
+          "oklch(87% 0.08629 53.261)",
+          "oklch(95% 0.08629 53.261)"
+        ]
+      },
+      "selected": {
+        "role": "secondary",
+        "displayName": "Selection Green",
+        "tonalRamp": [
+          "oklch(15% 0.02769 153.838)",
+          "oklch(27% 0.02769 153.838)",
+          "oklch(39% 0.02769 153.838)",
+          "oklch(51% 0.02769 153.838)",
+          "oklch(63% 0.02769 153.838)",
+          "oklch(75% 0.02769 153.838)",
+          "oklch(87% 0.02769 153.838)",
+          "oklch(95% 0.02769 153.838)"
+        ]
+      },
+      "focus": {
+        "role": "tertiary",
+        "displayName": "Focus Rust",
+        "tonalRamp": [
+          "oklch(15% 0.13086 41.369)",
+          "oklch(27% 0.13086 41.369)",
+          "oklch(39% 0.13086 41.369)",
+          "oklch(51% 0.13086 41.369)",
+          "oklch(63% 0.13086 41.369)",
+          "oklch(75% 0.13086 41.369)",
+          "oklch(87% 0.13086 41.369)",
+          "oklch(95% 0.13086 41.369)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "brand": {
+        "displayName": "Brand",
+        "purpose": "Product wordmark."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page headings."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Section and brief headings."
+      },
+      "section": {
+        "displayName": "Section",
+        "purpose": "Record and draft-entry headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Working text and native controls."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Field names and buttons."
+      },
+      "hint": {
+        "displayName": "Hint",
+        "purpose": "Reasons and supporting metadata."
+      },
+      "version": {
+        "displayName": "Version",
+        "purpose": "Tabular version captions."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "draft-outline",
+        "value": "outline-color 180ms cubic-bezier(.16,1,.3,1)",
+        "purpose": "Changed draft-entry boundary; transition none under prefers-reduced-motion:reduce."
+      },
+      {
+        "name": "version-change",
+        "value": "background-color 180ms cubic-bezier(.16,1,.3,1),border-color 180ms cubic-bezier(.16,1,.3,1)",
+        "purpose": "Selected-version background and boundary; transition none under prefers-reduced-motion:reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow",
+        "value": "760px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Native explicit action; static example does not save anything.",
+      "html": "<button class=\"ds-primary\" type=\"button\">Зафиксировать список</button>",
+      "css": ".ds-primary{font:600 16px/1.5 Noto,sans-serif;min-height:44px;padding:10px 16px;border:1px solid var(--forest,#163f35);border-radius:5px;cursor:pointer;background:var(--forest,#163f35);color:var(--white,#fff)}.ds-primary:hover{background:var(--ink,#1c3029)}.ds-primary:disabled{background:var(--mint,#e4eee5);color:var(--muted,#4e6259);border-color:var(--line,#a6b9ab);cursor:not-allowed}.ds-primary:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}"
+    },
+    {
+      "name": "Secondary action",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Ordinary native action with its hover and active fills.",
+      "html": "<button class=\"ds-secondary\" type=\"button\">Обновить данные</button>",
+      "css": ".ds-secondary{font:600 16px/1.5 Noto,sans-serif;min-height:44px;padding:10px 16px;border:1px solid var(--forest,#163f35);border-radius:5px;cursor:pointer;background:var(--white,#fff);color:var(--forest,#163f35)}.ds-secondary:hover{background:var(--selected,#d0e3d5)}.ds-secondary:active{background:var(--line,#a6b9ab)}.ds-secondary:disabled{background:var(--mint,#e4eee5);border-color:var(--line,#a6b9ab);color:var(--muted,#4e6259);cursor:not-allowed}.ds-secondary:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}"
+    },
+    {
+      "name": "Archive action",
+      "kind": "button",
+      "refersTo": "button-archive",
+      "description": "Separated archive control; static and scriptless.",
+      "html": "<button class=\"ds-archive\" type=\"button\">Скрыть список в архив</button>",
+      "css": ".ds-archive{font:600 16px/1.5 Noto,sans-serif;min-height:44px;padding:10px 16px;border:1px solid var(--forest,#163f35);border-radius:5px;cursor:pointer;display:block;margin:30px 0 0;background:var(--white,#fff);color:var(--danger,#8b302b);border-color:var(--danger,#8b302b)}.ds-archive:hover{background:var(--selected,#d0e3d5)}.ds-archive:active{background:var(--line,#a6b9ab)}.ds-archive:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}"
+    },
+    {
+      "name": "Labelled explanation field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "A native author explanation field; synthetic text only.",
+      "html": "<label class=\"ds-label\" for=\"ds-reason\">Пояснение к выбору SYN_DEMO</label><textarea class=\"ds-textarea\" id=\"ds-reason\" aria-describedby=\"ds-hint\" maxlength=\"500\">SYN: совпадает объявленная тема.</textarea><p class=\"ds-hint\" id=\"ds-hint\">Пояснение: 1–500 символов.</p>",
+      "css": ".ds-label{display:block;font:600 16px/1.5 Noto,sans-serif;margin:16px 0 6px;color:var(--ink,#1c3029)}.ds-textarea{font:16px/1.5 Noto,sans-serif;width:100%;min-height:100px;border:1px solid var(--muted,#4e6259);border-radius:4px;background:var(--white,#fff);color:var(--ink,#1c3029);padding:10px 12px;resize:vertical;caret-color:var(--forest,#163f35)}.ds-textarea:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}.ds-hint{font:14px/1.5 Noto,sans-serif;color:var(--muted,#4e6259);margin:8px 0 16px}"
+    },
+    {
+      "name": "Whole-word section navigation",
+      "kind": "nav",
+      "refersTo": "navigation-current",
+      "description": "Native section controls wrap as complete localized labels. Static aria-current illustrates the active section.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Разделы\"><button class=\"ds-nav-button\" type=\"button\" aria-current=\"page\">Отбор</button><button class=\"ds-nav-button\" type=\"button\">История</button><button class=\"ds-nav-button\" type=\"button\">Исходники</button><button class=\"ds-nav-button\" type=\"button\">Администрирование</button></nav>",
+      "css": ".ds-nav{display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--line,#a6b9ab);padding:0 0 16px}.ds-nav-button{font:600 16px/1.5 Noto,sans-serif;min-height:44px;padding:10px 16px;border:1px solid var(--forest,#163f35);border-radius:5px;cursor:pointer;background:var(--white,#fff);color:var(--forest,#163f35)}.ds-nav-button:hover{background:var(--selected,#d0e3d5)}.ds-nav-button[aria-current=page]{background:var(--forest,#163f35);color:var(--white,#fff)}.ds-nav-button:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}@media(max-width:760px){.ds-nav{gap:6px;padding-bottom:8px}.ds-nav-button{flex:1 1 auto;min-width:0;padding:7px;font-size:14px;line-height:20px;white-space:nowrap}}"
+    },
+    {
+      "name": "Selected version caption",
+      "kind": "chip",
+      "refersTo": "version-selected",
+      "description": "A caption rather than an action chip. The version numeral is synthetic.",
+      "html": "<span class=\"ds-version\">v4</span>",
+      "css": ".ds-version{display:inline-block;background:var(--accent,#d68e66);color:var(--ink,#1c3029);font:700 13px/1.5 Noto,sans-serif;font-variant-numeric:tabular-nums;padding:3px 9px;transition:background-color 180ms cubic-bezier(.16,1,.3,1),border-color 180ms cubic-bezier(.16,1,.3,1);border:1px solid transparent}@media(prefers-reduced-motion:reduce){.ds-version{transition:none}}"
+    },
+    {
+      "name": "Published brief",
+      "kind": "card",
+      "refersTo": "brief",
+      "description": "Static invented brief with three conditions; it is not a publication or a product record.",
+      "html": "<section class=\"ds-brief\"><h2 class=\"ds-brief-title\">SYN: обзор технологий</h2><div class=\"ds-criteria\"><p class=\"ds-criterion\">Город: Астана</p><p class=\"ds-criterion\">Язык: Қазақ тілі</p><p class=\"ds-criterion\">Темы: Технологии / Все выбранные темы</p></div><p class=\"ds-brief-meta\">v1 · Зафиксировано 2026-10-26</p></section>",
+      "css": ".ds-brief{background:var(--paper,#fffaf1);color:var(--ink,#1c3029);padding:22px 26px;border:1px solid var(--line,#a6b9ab);font:16px/1.5 Noto,sans-serif}.ds-brief-title{font-size:22px;line-height:1.3;margin:0 0 16px}.ds-criteria{display:flex;gap:10px 28px;flex-wrap:wrap}.ds-criterion{margin:0}.ds-brief-meta{font-size:14px;color:var(--muted,#4e6259);margin:8px 0 16px}@media(max-width:760px){.ds-brief{padding:12px 14px;margin:12px 0 16px}.ds-brief-title{font-size:20px;margin-bottom:8px}.ds-criteria{gap:4px 16px;font-size:14px;line-height:20px}.ds-criterion:last-child{flex-basis:100%}.ds-brief-meta{font-size:12px;line-height:18px;margin:6px 0 0}}"
+    },
+    {
+      "name": "Profile with literal reason rows",
+      "kind": "custom",
+      "refersTo": "profile",
+      "description": "Synthetic current record; statuses explicitly name the outcome and required/actual values.",
+      "html": "<article class=\"ds-profile\"><strong class=\"ds-code\">SYN_DEMO</strong><ul class=\"ds-reasons\"><li class=\"ds-reason\"><strong class=\"ds-condition\">Город</strong><div><span class=\"ds-status\">Совпадает</span><div class=\"ds-reason-hint\">Условие: Астана · Данные анкеты: Астана</div></div></li><li class=\"ds-reason\"><strong class=\"ds-condition\">Язык</strong><div><span class=\"ds-status ds-mismatch\">Не совпадает</span><div class=\"ds-reason-hint\">Условие: Қазақ тілі · Данные анкеты: Русский</div></div></li></ul></article>",
+      "css": ".ds-profile{background:var(--white,#fff);color:var(--ink,#1c3029);padding:22px 24px;border-bottom:1px solid var(--line,#a6b9ab);font:16px/1.5 Noto,sans-serif}.ds-reasons{list-style:none;margin:14px 0 0;padding:0;display:grid;gap:8px}.ds-reason{display:grid;grid-template-columns:80px minmax(0,1fr);gap:12px;border-top:1px solid var(--mint,#e4eee5);padding-top:8px}.ds-condition,.ds-reason-hint{font-size:14px}.ds-reason-hint{color:var(--muted,#4e6259)}.ds-status{font-weight:600}.ds-mismatch{color:var(--danger,#8b302b)}@media(max-width:760px){.ds-profile{padding:12px 14px}.ds-reasons{gap:6px;margin-top:10px}}"
+    },
+    {
+      "name": "Changed selected version",
+      "kind": "custom",
+      "refersTo": "draft-conflict",
+      "description": "Static source-version conflict with a synthetic explanation; the native example button has no action.",
+      "html": "<section class=\"ds-conflict\"><h3 class=\"ds-conflict-title\">SYN_DEMO <span class=\"ds-conflict-version\">v4 → v5</span></h3><p class=\"ds-conflict-note\">Версия изменилась. Проверьте причины и примите текущую версию явно.</p><button class=\"ds-accept\" type=\"button\">Принять текущую версию</button></section>",
+      "css": ".ds-conflict{padding:16px;background:var(--white,#fff);color:var(--ink,#1c3029);font:16px/1.5 Noto,sans-serif;border-top:1px solid var(--line,#a6b9ab);outline:1px solid var(--warn,#74411d);transition:outline-color 180ms cubic-bezier(.16,1,.3,1)}.ds-conflict-title{font-size:18px;margin:20px 0 8px}.ds-conflict-version{display:inline-block;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;background:var(--paper,#fffaf1);border:1px solid var(--warn,#74411d);padding:3px 9px;transition:background-color 180ms cubic-bezier(.16,1,.3,1),border-color 180ms cubic-bezier(.16,1,.3,1)}.ds-conflict-note{font-weight:600;color:var(--warn,#74411d);margin:8px 0 16px}.ds-accept{font:600 16px/1.5 Noto,sans-serif;min-height:44px;padding:10px 16px;border:1px solid var(--forest,#163f35);border-radius:5px;cursor:pointer;background:var(--white,#fff);color:var(--forest,#163f35);margin-top:10px}.ds-accept:hover{background:var(--selected,#d0e3d5)}.ds-accept:active{background:var(--line,#a6b9ab)}.ds-accept:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}@media(prefers-reduced-motion:reduce){.ds-conflict,.ds-conflict-version{transition:none}}"
+    },
+    {
+      "name": "Associated topic error",
+      "kind": "custom",
+      "refersTo": "input",
+      "description": "Static invalid topic group. This illustrates visual association; no validation or save is executed.",
+      "html": "<fieldset class=\"ds-topic-group\" aria-invalid=\"true\" aria-describedby=\"ds-topic-hint ds-topic-error\"><legend class=\"ds-topic-legend\">Темы</legend><label class=\"ds-topic-choice\"><input class=\"ds-checkbox\" type=\"checkbox\" aria-invalid=\"true\" aria-describedby=\"ds-topic-hint ds-topic-error\"> Красота</label><p class=\"ds-topic-hint\" id=\"ds-topic-hint\">Выберите 1–3 темы.</p><p class=\"ds-topic-error\" id=\"ds-topic-error\" role=\"alert\">Выберите 1–3 темы брифа. Остальные поля сохранены.</p></fieldset>",
+      "css": ".ds-topic-group{border:0;padding:0;margin:18px 0;color:var(--ink,#1c3029);font:16px/1.5 Noto,sans-serif}.ds-topic-legend{font-weight:600;padding:0}.ds-topic-choice{display:flex;align-items:center;gap:12px;min-height:44px;font-weight:600}.ds-checkbox{width:20px;height:20px;accent-color:var(--forest,#163f35);flex:none}.ds-checkbox:focus-visible{outline:3px solid var(--focus,#ad512c);outline-offset:3px}.ds-topic-hint{font-size:14px;color:var(--muted,#4e6259);margin:8px 0 16px}.ds-topic-error{color:var(--danger,#8b302b);margin:8px 0 16px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Collection Labels for Working Decisions",
+    "overview": "Museum collection-label precision is the implemented working metaphor: forest navigation, pale mint ground, white current records and warm paper for the published brief, draft and frozen history. This is a code-derived description of an author-inferred world. The owner confirmed the priority of criteria and reasons; the visual world was not approved by the owner.\n\nLocal Noto carries both RU and KK. Native controls, named condition rows and compact version captions support careful comparison without turning fictional codes into portraits or promotional imagery. The built signature is a peach version caption that becomes a text-labelled conflict; the provisional surface brief’s vertical mark did not become a card stripe.",
+    "keyCharacteristics": [
+      "Flat, bordered working surfaces with forest actions.",
+      "Three named reasons remain text, rather than a color-only verdict.",
+      "Peach marks the selected version; a changed version includes text and an explicit action.",
+      "Compact narrow layouts keep localized navigation words intact."
+    ],
+    "rules": [
+      {
+        "name": "The Caption Rule",
+        "body": "Use peach on the version caption of a selected record. A changed version carries its old-to-current text and conflict boundary; color alone does not describe the change.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Local Voice Rule",
+        "body": "Use the bundled Noto family across navigation, data, forms and headings. Keep version numerals tabular and labels in their natural RU/KK case.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Record Rule",
+        "body": "Separate records with fills, spacing and thin borders. The current system uses no box shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** preserve the text label and value for each city, language and topic reason.",
+      "**Do** retain native-sized controls, associated field errors and the visible rust focus outline.",
+      "**Do** let whole navigation controls move to another row on narrow screens.",
+      "**Do** distinguish selected, changed, frozen and archived states with text as well as their existing treatments."
+    ],
+    "donts": [
+      "**Don't** split localized navigation labels into arbitrary letter fragments.",
+      "**Don't** replace a changed-version explanation with a colored stripe alone.",
+      "**Don't** add elevation shadows to these flat record surfaces as an assumed house style.",
+      "**Don't** present the inferred visual world as owner-approved."
+    ]
+  }
+}

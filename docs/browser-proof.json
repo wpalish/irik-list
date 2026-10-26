@@ -1,0 +1,49 @@
+{
+  "status": "ui_workflow_passed",
+  "as_of": "2026-10-26T17:57:09.699486+00:00",
+  "synthetic_only": true,
+  "main": {
+    "origin": "http://127.0.0.1:8862",
+    "revision": 16,
+    "audit": 16,
+    "accepted_commands": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "replayed": false,
+    "native": "alpha stale refresh, retained explanation, changed-profile explicitaccept and native Tab/Enter shortlist8; beta KK2entry12; laterarchives13–16 preserve frozen data"
+  },
+  "QA": {
+    "origin": "http://localhost:8890",
+    "current_domain_revision": 4,
+    "audit": 4,
+    "scope": "Separate private authenticated DB copy of main12; restored once, profilev3→4→5 then distinct corrected brief; no QA shortlist submit",
+    "accounts": "Two explicitly distinct createPOST actions, each once. First invalidJSON response; secondheld pending→invalidJSON. ExplicitGETusers found one per name. Five total accounts. Not main mutation or external service."
+  },
+  "viewports": [
+    1100,
+    400
+  ],
+  "capture_provenance": "Original20fullreview +17firstfix81addf2 +6intermediateCSS a528d74 +2finalCSSd4a421f currentwholewordnavigation; raw/source maps preserved bystage, not all-currentclaim.",
+  "packet": "docs/ui-fix-verdict-packet.json",
+  "limits": [
+    "no touch/AT/1440/physicaldevice/load/lowmemory/fullsecurity/publicSaaSaudit",
+    "not a fresh whole audit: score six fixes with preserved original20view full review",
+    "direction inferred; owner only confirmed criteria/reasons priority",
+    "detector/context each once; not repeated"
+  ]
+}
