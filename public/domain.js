@@ -10,7 +10,7 @@ function option(v,allowed,nullable=false){ensure((nullable&&v===null)||allowed.i
 function list(v,allowed,min=0,max=allowed.length){ensure(Array.isArray(v)&&v.length>=min&&v.length<=max&&new Set(v).size===v.length);for(const x of v)option(x,allowed);return allowed.filter(x=>v.includes(x));}
 export function normalizeProfile(v){keys(v,['city','languages','topics']);return {city:option(v.city,CITIES,true),languages:list(v.languages,LANGUAGES),topics:list(v.topics,TOPICS)};}
 export function normalizeBrief(v){keys(v,['titleRu','titleKk','city','language','topics','topicsMode']);return {titleRu:text(v.titleRu,120),titleKk:text(v.titleKk,120),city:option(v.city,CITIES,true),language:option(v.language,LANGUAGES,true),topics:list(v.topics,TOPICS,1,3),topicsMode:option(v.topicsMode,['any','all'])};}
-export function normalizeCode(v){ensure(typeof v==='string');v=v.trim().toUpperCase();ensure(/^SYN_[A-Z0-9_]{1,24}$/.test(v));return v;}
+export function normalizeCode(v){ensure(typeof v==='string');v=v.trim();ensure(/^[sS][yY][nN]_[a-zA-Z0-9_]{1,24}$/.test(v));return v.toUpperCase();}
 export function match(b,p){
  const reasons=[{field:'city',status:b.city===null?'ignored':p.city===null?'missing':p.city===b.city?'match':'mismatch',required:b.city,actual:p.city},
  {field:'language',status:b.language===null?'ignored':!p.languages.length?'missing':p.languages.includes(b.language)?'match':'mismatch',required:b.language,actual:[...p.languages]},
